@@ -634,7 +634,28 @@
         "note": ""
       },
       "timeframe": "",
-      "officialLinks": [],
+      "officialLinks": [
+        {
+          "label": "isic.ie",
+          "url": "https://www.isic.ie"
+        },
+        {
+          "label": "studentuniversalcard.ie",
+          "url": "https://www.studentuniversalcard.ie"
+        },
+        {
+          "label": "usi.ie",
+          "url": "https://usi.ie"
+        },
+        {
+          "label": "ireland.ie",
+          "url": "https://www.ireland.ie"
+        },
+        {
+          "label": "visitdublin.com",
+          "url": "https://www.visitdublin.com"
+        }
+      ],
       "tips": [
         "Attend Freshers' Week - join societies, meet people, grab freebies and discount sign-ups.",
         "Always ask \"is there a student discount?\" - many cafes, cinemas, and shops offer one with a student ID."
@@ -755,7 +776,44 @@
       "priority": "pre_arrival",
       "whoNeedsIt": "Non-EU/EEA students from VISA-REQUIRED countries must apply BEFORE travelling. EU/EEA/Swiss: no visa, no IRP. Non-EU from NON-VISA-REQUIRED countries (e.g. USA, Canada, Australia, Brazil): no entry visa, but you MUST still register for IRP within 90 days (see irp-registration.txt).",
       "why": "Legal permission to enter Ireland to study. Without it, visa-required nationals cannot board/enter. DO YOU NEED A VISA? - Check your nationality: https://www.irishimmigration.ie/coming-to-study-in-ireland/ - Student immigration FAQ: https://www.irishimmigration.ie/registering-your-immigration-permission/frequently-asked-questions-for-registration/",
-      "steps": [],
+      "steps": [
+        {
+          "order": 1,
+          "text": "Portal: https://www.visas.inis.gov.ie"
+        },
+        {
+          "order": 2,
+          "text": "Create an AVATS account."
+        },
+        {
+          "order": 3,
+          "text": "Complete the online form (match your passport exactly; choose \"D Study Visa\" if course > 3 months)."
+        },
+        {
+          "order": 4,
+          "text": "Pay the fee online (EUR 60 single / EUR 100 multiple)."
+        },
+        {
+          "order": 5,
+          "text": "Print and sign the summary form + declaration page."
+        },
+        {
+          "order": 6,
+          "text": "Gather required documents (see document-checklists.txt -> VISA)."
+        },
+        {
+          "order": 7,
+          "text": "Submit physical documents to your nearest Irish Embassy/ Consulate. Find it: https://www.ireland.ie/en/dfa/embassies/"
+        },
+        {
+          "order": 8,
+          "text": "Wait for a decision: normally 4-8 weeks; peak season (Jun-Sep) up to 10-12 weeks. APPLY WELL IN ADVANCE."
+        },
+        {
+          "order": 9,
+          "text": "Travel to Ireland; keep your visa approval docs; register for IRP within 90 days."
+        }
+      ],
       "documents": [],
       "fees": {
         "amount": 60,
@@ -811,10 +869,6 @@
         {
           "label": "5. OTHER",
           "text": "passport valid 12+ months from arrival; good character\n     (no serious criminal record); genuine student intent; intent to\n     leave after studies; DISCLOSE any prior visa refusal (anywhere);\n     explain any education gaps in writing."
-        },
-        {
-          "label": "HOW TO APPLY (AVATS)",
-          "text": "Portal: https://www.visas.inis.gov.ie\n  1. Create an AVATS account.\n  2. Complete the online form (match your passport exactly; choose\n     \"D Study Visa\" if course > 3 months).\n  3. Pay the fee online (EUR 60 single / EUR 100 multiple).\n  4. Print and sign the summary form + declaration page.\n  5. Gather required documents (see document-checklists.txt -> VISA).\n  6. Submit physical documents to your nearest Irish Embassy/\n     Consulate. Find it: https://www.ireland.ie/en/dfa/embassies/\n  7. Wait for a decision: normally 4-8 weeks; peak season (Jun-Sep)\n     up to 10-12 weeks. APPLY WELL IN ADVANCE.\n  8. Travel to Ireland; keep your visa approval docs; register for\n     IRP within 90 days."
         },
         {
           "label": "COMMON REASONS FOR REFUSAL (AVOID)",
@@ -968,7 +1022,7 @@
       "type": "email",
       "title": "Request to university for PPSN letter",
       "subject": "Request for PPSN confirmation letter — {{full_name}}, {{student_id}}",
-      "body": "Dear {{university}} International/Student Office,\n\nI am a registered {{course_name}} student (student ID {{student_id}})\nand I am applying for a PPSN (Personal Public Service Number) for the\npurpose of my studies.\n\nCould you please provide a letter, addressed to the tax office,\nconfirming that I am a full-time student and that I require a PPSN for\nmy studies? I understand this letter is accepted by the Department of\nSocial Protection as evidence for the PPSN application.\n\nMy details:\n  Full name: {{full_name}}\n  Date of birth: {{date_of_birth}}\n  Nationality: {{nationality}}\n  Irish address: {{irish_address}}\n  Course: {{course_name}}\n  Course start: {{course_start}}\n\nThank you very much for your help.\n\nKind regards,\n{{full_name}}\n{{phone_irish}} | {{email}}\n\n----------------------------------------------------------------",
+      "body": "Dear {{university}} International/Student Office,\n\nI am a registered {{course_name}} student (student ID {{student_id}})\nand I am applying for a PPSN (Personal Public Service Number) for the\npurpose of my studies.\n\nCould you please provide a letter, addressed to the tax office,\nconfirming that I am a full-time student and that I require a PPSN for\nmy studies? I understand this letter is accepted by the Department of\nSocial Protection as evidence for the PPSN application.\n\nMy details:\n  Full name: {{full_name}}\n  Date of birth: {{date_of_birth}}\n  Nationality: {{nationality}}\n  Irish address: {{irish_address}}\n  Course: {{course_name}}\n  Course start: {{course_start}}\n\nThank you very much for your help.\n\nKind regards,\n{{full_name}}\n{{phone_irish}} | {{email}}",
       "placeholders": [
         "full_name",
         "student_id",
@@ -987,7 +1041,7 @@
       "id": "ppsn-reason-letter",
       "type": "letter",
       "title": "PPSN \"reason for application\" letter",
-      "body": "(the supporting letter, as the office would issue it — for reference)\n----------------------------------------------------------------\n[University letterhead]\nDate: {{today}}\n\nTo the PPSN Registration Office / Department of Social Protection,\n\nThis is to confirm that {{full_name}} (date of birth {{date_of_birth}},\nnationality {{nationality}}) is a registered full-time student at\n{{university}}, enrolled on the {{course_name}} programme commencing\n{{course_start}}.\n\n{{full_name}} requires a Personal Public Service Number for the\npurpose of their studies and associated services in Ireland. Their\ncurrent address in Ireland is {{irish_address}}.\n\nPlease provide any assistance required.\n\nYours faithfully,\n[Name, Office, {{university}}]\n\n----------------------------------------------------------------",
+      "body": "(the supporting letter, as the office would issue it — for reference)\n[University letterhead]\nDate: {{today}}\n\nTo the PPSN Registration Office / Department of Social Protection,\n\nThis is to confirm that {{full_name}} (date of birth {{date_of_birth}},\nnationality {{nationality}}) is a registered full-time student at\n{{university}}, enrolled on the {{course_name}} programme commencing\n{{course_start}}.\n\n{{full_name}} requires a Personal Public Service Number for the\npurpose of their studies and associated services in Ireland. Their\ncurrent address in Ireland is {{irish_address}}.\n\nPlease provide any assistance required.\n\nYours faithfully,\n[Name, Office, {{university}}]",
       "placeholders": [
         "today",
         "full_name",
@@ -1005,7 +1059,7 @@
       "type": "email",
       "title": "Enquiry to a GP practice (new patient)",
       "subject": "New patient registration enquiry",
-      "body": "Hello,\n\nI am an international student at {{university}}, recently arrived in\nIreland and living at {{irish_address}}. I would like to register as\na new patient. Could you let me know if you are currently accepting\nnew patients, what documents you require, and your consultation fees?\n\nI have private health insurance and can provide ID and proof of\naddress.\n\nThank you,\n{{full_name}}\n{{phone_irish}}\n\n----------------------------------------------------------------",
+      "body": "Hello,\n\nI am an international student at {{university}}, recently arrived in\nIreland and living at {{irish_address}}. I would like to register as\na new patient. Could you let me know if you are currently accepting\nnew patients, what documents you require, and your consultation fees?\n\nI have private health insurance and can provide ID and proof of\naddress.\n\nThank you,\n{{full_name}}\n{{phone_irish}}",
       "placeholders": [
         "university",
         "irish_address",

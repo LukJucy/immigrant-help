@@ -74,6 +74,7 @@ export function TaskGuideScreen() {
           ))}
         </ol>
       </section>
+      )}
 
       {guide.documents.length > 0 && (
         <section>
@@ -106,6 +107,14 @@ export function TaskGuideScreen() {
           )}
         </section>
       )}
+
+      {/* Extra detail sections preserved from the source (eligibility, etc.) */}
+      {guide.extraSections.map((sec) => (
+        <section key={sec.label}>
+          <h3 className="mb-1 text-base font-semibold text-ink">{titleCase(sec.label)}</h3>
+          <p className="whitespace-pre-line text-sm text-ink">{sec.text}</p>
+        </section>
+      ))}
 
       {/* Official links */}
       <section>
@@ -179,6 +188,12 @@ function tagForGuide(id: string): string {
     "health-gp": "health",
   };
   return map[id] ?? "general";
+}
+
+/** "COMMON REASONS FOR REFUSAL" -> "Common reasons for refusal". */
+function titleCase(label: string): string {
+  const lower = label.toLowerCase().replace(/\s+/g, " ").trim();
+  return lower.charAt(0).toUpperCase() + lower.slice(1);
 }
 
 function shortTimeframe(t: string): string {
