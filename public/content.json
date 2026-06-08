@@ -1,0 +1,1285 @@
+{
+  "generatedAt": "2026-06-08",
+  "guides": [
+    {
+      "id": "accommodation",
+      "title": "Finding Accommodation & Tenant Rights",
+      "category": "housing",
+      "priority": "pre_arrival",
+      "whoNeedsIt": "Everyone not in guaranteed university housing.",
+      "why": "Accommodation is the #1 stressor and the gateway task: you can't get a PPSN or easily open a bank account without a long-term address. Dublin's market is tight and expensive.",
+      "steps": [
+        {
+          "order": 1,
+          "text": "Apply for university/SSA housing as EARLY as possible (often before you've even accepted your offer)."
+        },
+        {
+          "order": 2,
+          "text": "If renting privately, budget for 1 month deposit + 1 month rent up front (and no more)."
+        },
+        {
+          "order": 3,
+          "text": "Get the tenancy/licence agreement IN WRITING."
+        },
+        {
+          "order": 4,
+          "text": "Never pay a deposit for a place you haven't verified is real (scam risk — see TIPS)."
+        },
+        {
+          "order": 5,
+          "text": "Use your address to unblock PPSN and bank account."
+        }
+      ],
+      "documents": [
+        "ID (passport), university acceptance letter, references where asked, deposit + first month's rent."
+      ],
+      "fees": {
+        "amount": 0,
+        "currency": "EUR",
+        "note": ""
+      },
+      "timeframe": "",
+      "officialLinks": [
+        {
+          "label": "rtb.ie",
+          "url": "https://rtb.ie/students/"
+        },
+        {
+          "label": "threshold.ie",
+          "url": "https://threshold.ie/faq/student-rental-rights/"
+        },
+        {
+          "label": "citizensinformation.ie",
+          "url": "https://www.citizensinformation.ie/en/housing/renting-a-home/"
+        },
+        {
+          "label": "dublin.ie",
+          "url": "https://dublin.ie/study/student-life/finding-student-accommodation/"
+        }
+      ],
+      "tips": [
+        "SCAM WARNING: never transfer a deposit before viewing (or having someone trusted view) the property and confirming the landlord is genuine. This is the most common way students lose money.",
+        "Threshold gives free, independent tenancy advice — use it.",
+        "Start the search months early; book temporary accommodation for your first nights if needed (but remember temporary addresses don't work for PPSN)."
+      ],
+      "extraSections": [
+        {
+          "label": "TYPES",
+          "text": "- Student Specific Accommodation (SSA): purpose-built student\n    housing, run by colleges or private companies. Term-time focused\n    (roughly Sept–May). All SSA is under the RTB's remit.\n  - Private rented: house/apartment shares or whole units on the\n    open market."
+        },
+        {
+          "label": "KEY TENANT RIGHTS (VERIFY CURRENT RULES WITH RTB/THRESHOLD)",
+          "text": "- DEPOSIT: a landlord can only ask for a deposit equal to 1\n    month's rent.\n  - RENT IN ADVANCE: you cannot be required to pay more than 1\n    month's rent in advance to secure a tenancy.\n  - SSA TERM: a student licence should not exceed 41 weeks unless\n    you ask for longer; you can't be forced to pay for SSA over the\n    summer if you don't need it.\n  - NOTICE: students in SSA need give only 28 days' notice to end\n    the arrangement; SSA providers must also give at least 28 days.\n  - DISPUTES: any student can apply for RTB Dispute Resolution —\n    even if the landlord never registered the tenancy."
+        },
+        {
+          "label": "INDICATIVE COSTS (2025/26)",
+          "text": "- Shared / basic room: from ~€800/month\n  - Premium student rooms: €1,350+/month\n  - One-bed apartment: ~€2,132 city centre / ~€1,872 suburbs\n  [VERIFY — Dublin rents move fast]"
+        },
+        {
+          "label": "WHERE TO SEARCH (LISTING SITES)",
+          "text": "- On-campus/student housing: apply on your college website as soon\n    as you accept your offer (search \"[Your College] student\n    accommodation\")\n  - Daft.ie (most popular in Ireland): https://www.daft.ie\n  - MyHome.ie: https://www.myhome.ie\n  - Student Accommodation Ireland: https://www.studentaccommodation.ie\n  - CollegeSuite (purpose-built student housing): https://www.collegesuite.ie\n  - Homes to Let: https://www.homesforrent.ie"
+        }
+      ],
+      "relatedGuides": [],
+      "lastVerified": "2026-06-08",
+      "verifyFlags": [
+        "VERIFY — Dublin rents move fast"
+      ]
+    },
+    {
+      "id": "driving-licence",
+      "title": "Driving Licence (using a foreign licence)",
+      "category": "transport",
+      "priority": "first_month",
+      "whoNeedsIt": "Students who plan to drive in Ireland.",
+      "why": "Foreign licences are only valid for a limited time; non-EU licences may need conversion (or you must sit an Irish test) to keep driving legally.",
+      "steps": [
+        {
+          "order": 1,
+          "text": "Check if your country has a licence-exchange agreement with Ireland (Citizens Information link below)."
+        },
+        {
+          "order": 2,
+          "text": "If yes: apply to exchange via the NDLS (National Driver Licence Service). You'll typically need ID, proof of address, PPSN, and your current licence."
+        },
+        {
+          "order": 3,
+          "text": "If no: you must sit the Driver Theory Test, get a learner permit, and pass the driving test to drive long-term."
+        }
+      ],
+      "documents": [],
+      "fees": {
+        "amount": 0,
+        "currency": "EUR",
+        "note": ""
+      },
+      "timeframe": "",
+      "officialLinks": [
+        {
+          "label": "citizensinformation.ie",
+          "url": "https://www.citizensinformation.ie/en/travel-and-recreation/motoring/driver-licensing/"
+        }
+      ],
+      "tips": [
+        "Don't let your foreign licence \"run out\" of validity here — check the 12-month rule for your country early.",
+        "In Dublin, public transport + Leap card usually beats driving; you may not need this at all."
+      ],
+      "extraSections": [
+        {
+          "label": "KEY RULES",
+          "text": "- EU/EEA licences: generally valid to drive in Ireland and can be\n    exchanged for an Irish licence.\n  - Non-EU/EEA licences: may be used for a limited period (commonly\n    up to 12 months). After that you may need to convert (if Ireland\n    has an exchange agreement with your country) OR pass the Irish\n    driver theory + practical test.\n  - Whether you can EXCHANGE depends on your country having an\n    agreement with Ireland — check the official link for your\n    specific country."
+        }
+      ],
+      "relatedGuides": [],
+      "lastVerified": "2026-06-08",
+      "verifyFlags": []
+    },
+    {
+      "id": "health-gp",
+      "title": "Health Insurance & Registering with a GP",
+      "category": "health",
+      "priority": "pre_arrival",
+      "whoNeedsIt": "All non-EEA students need private medical insurance for Stamp 2. Everyone should register with a GP.",
+      "why": "Insurance is a legal condition of your student permission and is checked at IRP registration/renewal. A GP is your first point of contact for healthcare.",
+      "steps": [
+        {
+          "order": 1,
+          "text": "Ask your university health centre for nearby GP recommendations (most campuses have an on-site health centre)."
+        },
+        {
+          "order": 2,
+          "text": "Or find a GP near you:"
+        },
+        {
+          "order": 3,
+          "text": "HSE find-a-GP: https://www.hse.ie/eng/services/list/2/gp/find-a-gp.html"
+        },
+        {
+          "order": 4,
+          "text": "Irish College of General Practitioners (ICGP): icgp.ie"
+        },
+        {
+          "order": 5,
+          "text": "GP visit card (free GP visits if low income): apply via mywelfare.ie"
+        },
+        {
+          "order": 6,
+          "text": "Call/visit the practice to check they are accepting new patients."
+        },
+        {
+          "order": 7,
+          "text": "Complete their registration form and provide insurance details."
+        },
+        {
+          "order": 8,
+          "text": "Provide ID and proof of Irish address."
+        }
+      ],
+      "documents": [
+        "Photo ID (passport)",
+        "Proof of Irish address",
+        "Health insurance details",
+        "(For IRP) a valid insurance certificate meeting the minimums"
+      ],
+      "fees": {
+        "amount": 150,
+        "currency": "EUR",
+        "note": "- Insurance: ~€150–500/year - GP visit: campus health centre ~€15–30; external GP ~€50–70 per visit"
+      },
+      "timeframe": "Insurance: arrange before arrival. GP registration: same day–week once you pick a practice.",
+      "officialLinks": [
+        {
+          "label": "internationalstudents.ie",
+          "url": "https://www.internationalstudents.ie/info-and-advice/immigration/health-insurance"
+        },
+        {
+          "label": "tcd.ie",
+          "url": "https://www.tcd.ie/study/international/arriving-in-ireland/health-insurance/"
+        }
+      ],
+      "tips": [
+        "Use the campus health centre — consultations are far cheaper than external GPs and often free for some services.",
+        "Keep your insurance certificate handy: you need it for IRP registration and renewal.",
+        "In an emergency, dial 112 or 999. A&E is for emergencies only."
+      ],
+      "extraSections": [
+        {
+          "label": "HEALTH INSURANCE",
+          "text": "- Non-EU students MUST have private health insurance for Stamp 2.\n  - Cost: roughly €150–500 / year.\n  - Must meet the minimum cover required for residency renewal:\n    €25,000 for accident AND €25,000 for disease, including any\n    hospitalisation. [VERIFY current minimum]\n  - FIRST YEAR: travel/home-country insurance MAY suffice if it\n    covers you for a full year (or your stay is under a year) and\n    meets the €25,000 minimums.\n  - AFTER first year: must buy insurance from an Ireland-based\n    provider.\n  - Compare plans (official tool): https://www.hia.ie\n  - Major student insurers: Laya\n    (https://www.laya.ie/health-insurance/students), VHI\n    (https://www.vhi.ie/health-insurance/student-health-insurance),\n    Irish Life Health (https://www.irishlifehealth.ie).\n  - TIP: many colleges offer a GROUP student insurance plan that is\n    cheaper than buying privately — check your college/SU first.\n  - EU students: get your EHIC card before leaving home —\n    https://www.hse.ie/eng/services/list/1/schemes/EHIC/"
+        }
+      ],
+      "relatedGuides": [
+        "irp-registration"
+      ],
+      "lastVerified": "2026-06-08",
+      "verifyFlags": [
+        "VERIFY current minimum",
+        "VERIFY insurance minimums on irishimmigration.ie before launch"
+      ]
+    },
+    {
+      "id": "irp-registration",
+      "title": "IRP (Irish Residence Permit) Registration",
+      "category": "legal",
+      "priority": "first_90_days",
+      "whoNeedsIt": "All non-EEA/non-Swiss students staying longer than 90 days. (EU/EEA/Swiss students do NOT need to register.)",
+      "why": "The IRP card is your legal proof of permission to live in Ireland (typically Stamp 2 for students). You must register to remain legally resident.",
+      "steps": [
+        {
+          "order": 1,
+          "text": "Arrive in Ireland."
+        },
+        {
+          "order": 2,
+          "text": "Create a personal account on the ISD Customer Portal (Immigration Service Delivery)."
+        },
+        {
+          "order": 3,
+          "text": "Book a first-time registration appointment online at inisonline.jahs.ie. Since Jan 2025, ALL first-time registrations are handled by ISD (no longer the Garda/GNIB). Slots open on a rolling basis up to ~10 weeks ahead."
+        },
+        {
+          "order": 4,
+          "text": "Upload/prepare your supporting documents (see below)."
+        },
+        {
+          "order": 5,
+          "text": "Attend your appointment at the ISD Registration Office, 13-14 Burgh Quay, Dublin 2, D02 XK70. (Outside Dublin: contact your local ISD office.)"
+        },
+        {
+          "order": 6,
+          "text": "Pay the €300 registration fee."
+        },
+        {
+          "order": 7,
+          "text": "Your IRP card is printed centrally and POSTED to your address in ~10–15 working days (you do not get it on the day)."
+        }
+      ],
+      "documents": [
+        "Passport (incl. biometric page) and entry visa where applicable",
+        "Evidence of the basis for permission: university admission/ enrolment letter",
+        "Proof of address in Ireland",
+        "Proof of financial means (where required)",
+        "Private medical insurance (required for Stamp 2 — see health-gp.txt)"
+      ],
+      "fees": {
+        "amount": 300,
+        "currency": "EUR",
+        "note": "€300 registration fee (unless in an exempt category)"
+      },
+      "timeframe": "- DEADLINE: register within 90 days of arrival - Appointment wait: officially 2–3 weeks, but real Dublin waits were ~8–10 weeks in late 2025 [VERIFY] - Card posted ~10–15 working days after appointment - If you CANNOT get an appointment within 90 days, do not panic: ISD will not cancel your permission while you are waiting — but book as early as possible.",
+      "officialLinks": [
+        {
+          "label": "irishimmigration.ie",
+          "url": "https://www.irishimmigration.ie/registering-your-immigration-permission/information-on-registering/irish-residence-permit/"
+        },
+        {
+          "label": "citizensinformation.ie",
+          "url": "https://www.citizensinformation.ie/en/moving-country/moving-to-ireland/rights-of-residence-in-ireland/registration-of-non-eea-nationals-in-ireland/"
+        }
+      ],
+      "bookingPortal": "https://inisonline.jahs.ie",
+      "tips": [
+        "Book the appointment AS SOON AS you arrive — slots go fast and waits can eat most of your 90-day window.",
+        "Check the portal early in the morning; slots are released on a rolling basis.",
+        "Have the €300 ready and your insurance certificate sorted before the appointment.",
+        "Stamp 2 = student permission. Work limits: MAX 20 hrs/week during term; MAX 40 hrs/week during holidays (holiday periods: June, July, August, September, and 15 December - 15 January). Exceeding these limits violates your visa conditions."
+      ],
+      "extraSections": [
+        {
+          "label": "STAMP 2 - WHAT IT ALLOWS",
+          "text": "- Remain in Ireland for your course duration\n  - Work up to 20 hrs/week (term) / 40 hrs/week (holidays)\n  - Must be renewed each year (see RENEWAL below)\n  - Permission stamps explained:\n    https://www.irishimmigration.ie/registering-your-immigration-permission/information-on-registering/immigration-permission-stamps/"
+        },
+        {
+          "label": "RENEWING YOUR IRP (EACH YEAR)",
+          "text": "- Renew BEFORE your current card expires.\n  - You can apply from 12 WEEKS before expiry — NOT earlier (earlier\n    applications are refused).\n  - Stamp 2 students: wait until your NEW course year starts before\n    applying to renew.\n  - All renewals are done ONLINE (not in person). Fee: €300/year.\n  - You must be physically present in Ireland to renew.\n  - Check live ISD processing times before applying:\n    https://www.irishimmigration.ie/registering-your-immigration-permission/how-to-renew-your-current-permission/"
+        },
+        {
+          "label": "TRAVELLING OUTSIDE IRELAND (RE-ENTRY)",
+          "text": "- To re-enter you need BOTH your valid passport AND your valid\n    PHYSICAL IRP card. A photo/soft copy is NOT accepted.\n  - Do NOT travel if your IRP card has expired - you may be refused\n    re-entry.\n  - If your renewal is pending, check the ISD site for any temporary\n    travel arrangements before you travel."
+        },
+        {
+          "label": "AFTER GRADUATION - STAMP 1G (GRADUATE PROGRAMME)",
+          "text": "- Lets you stay to seek work without a job offer first.\n  - Duration: 12 months (ordinary degree) / 24 months (postgrad,\n    Level 9+).\n  - Must apply before your Stamp 2 expires; must have graduated from\n    an ILEP-listed programme; cannot work more than 40 hrs/week.\n  - Dependents: only postgrad (Level 9+) students may bring a spouse/\n    children, with extra financial means and separate applications.\n  - Info: https://www.irishimmigration.ie/my-situation-has-changed-since-i-arrived-in-ireland/graduate-programme/"
+        }
+      ],
+      "relatedGuides": [
+        "health-gp",
+        "ppsn",
+        "accommodation"
+      ],
+      "appliesTo": {
+        "nationalityClass": [
+          "non_eea"
+        ],
+        "stamp": [
+          "stamp_2"
+        ]
+      },
+      "lastVerified": "2026-06-08",
+      "verifyFlags": [
+        "VERIFY"
+      ]
+    },
+    {
+      "id": "ppsn",
+      "title": "PPSN (Personal Public Service Number)",
+      "category": "legal",
+      "priority": "first_90_days",
+      "whoNeedsIt": "All students who will work, pay tax, open some bank accounts, or access public/health services. Required before starting any paid job to avoid emergency tax.",
+      "why": "A unique ID number that links you to tax, social, and public services in Ireland. Without it you are taxed at the emergency rate and cannot be set up properly by an employer.",
+      "steps": [
+        {
+          "order": 1,
+          "text": "Travel to Ireland first — you must be RESIDENT here to apply. You cannot get a PPSN from abroad."
+        },
+        {
+          "order": 2,
+          "text": "Secure long-term accommodation (student residence or private rented). Short-term/temporary accommodation is NOT accepted."
+        },
+        {
+          "order": 3,
+          "text": "Create a basic MyGovID account at mygovid.ie."
+        },
+        {
+          "order": 4,
+          "text": "Get a letter from your university/college stating you need a PPSN for your studies, addressed to the tax office. (See 02-prefill-templates/letter-templates.txt.)"
+        },
+        {
+          "order": 5,
+          "text": "Log in to MyWelfare.ie and apply for a PPSN online."
+        },
+        {
+          "order": 6,
+          "text": "Book the required IN-PERSON appointment as part of the online application. You will be told which documents to bring."
+        },
+        {
+          "order": 7,
+          "text": "Attend the appointment with your documents."
+        },
+        {
+          "order": 8,
+          "text": "Your PPSN is POSTED to your address afterwards (not given on the day)."
+        }
+      ],
+      "documents": [
+        "Passport (photo ID)",
+        "Evidence of why you need a PPSN: the college PPSN letter (confirms it is needed for study)",
+        "Proof of address (long-term; the college letter is often accepted for this too)",
+        "MyGovID / MyWelfare account set up"
+      ],
+      "fees": {
+        "amount": 0,
+        "currency": "EUR",
+        "note": "Free"
+      },
+      "timeframe": "Appointment booked within application; number arrives by post days–weeks later. [VERIFY current wait]",
+      "officialLinks": [
+        {
+          "label": "gov.ie",
+          "url": "https://www.gov.ie/en/department-of-social-protection/services/get-a-personal-public-service-pps-number/"
+        },
+        {
+          "label": "services.mywelfare.ie",
+          "url": "https://services.mywelfare.ie/en/topics/identity-services/personal-public-service-pps-number/"
+        },
+        {
+          "label": "citizensinformation.ie",
+          "url": "https://www.citizensinformation.ie/en/social-welfare/irish-social-welfare-system/personal-public-service-number/"
+        }
+      ],
+      "tips": [
+        "Sort accommodation FIRST — this is the most common blocker.",
+        "Ask your university's international/student office for the PPSN letter; many produce them as standard for new students.",
+        "You do NOT necessarily need a PPSN to use your university's own student health service.",
+        "Apply early — you need the PPSN before your first payslip to avoid emergency tax (see tax-revenue.txt)."
+      ],
+      "extraSections": [],
+      "relatedGuides": [
+        "irp-registration",
+        "student-bank-account",
+        "tax-revenue",
+        "accommodation"
+      ],
+      "lastVerified": "2026-06-08",
+      "verifyFlags": [
+        "VERIFY current wait"
+      ]
+    },
+    {
+      "id": "sim-card",
+      "title": "SIM Card / Mobile Plan",
+      "category": "comms",
+      "priority": "week_1",
+      "whoNeedsIt": "Everyone. An Irish number is needed for verification on most portals and services.",
+      "why": "Cheap data + an Irish number for 2FA, appointments, banking, and calls.",
+      "steps": [
+        {
+          "order": 1,
+          "text": "Compare plans on price, data, and roaming (esp. if you'll travel in the EU)."
+        },
+        {
+          "order": 2,
+          "text": "Order online (eSIM or free posted SIM) or buy in a shop / supermarket / airport."
+        },
+        {
+          "order": 3,
+          "text": "Activate and (for value brands like 48) choose a membership/ plan to start using it."
+        },
+        {
+          "order": 4,
+          "text": "Top up / set the monthly plan."
+        }
+      ],
+      "documents": [
+        "Usually just your passport. Most PREPAID SIMs do NOT require a PPSN or IRP. (Bill-pay/contract plans may need more — and usually aren't worth it for short stays.)"
+      ],
+      "fees": {
+        "amount": 10,
+        "currency": "EUR",
+        "note": "~€10–15 / month for a good prepaid plan"
+      },
+      "timeframe": "eSIM: minutes. Physical SIM: same day (shop) or a few days (posted).",
+      "officialLinks": [
+        {
+          "label": "gomo.ie",
+          "url": "https://gomo.ie/"
+        },
+        {
+          "label": "goosed.ie",
+          "url": "https://goosed.ie/"
+        }
+      ],
+      "tips": [
+        "Get a prepaid/PAYG SIM, NOT a contract — no credit check, no lock-in, easy to switch.",
+        "Do this at the airport or day one so you have a number for every other task (bank, IRP portal need a phone number).",
+        "Check EU roaming caps if you plan to travel during breaks."
+      ],
+      "extraSections": [
+        {
+          "label": "OPTIONS (PREPAID / SIM-ONLY — BEST VALUE FOR STUDENTS)",
+          "text": "- 48 (runs on Three's network): ~€12.99/mo, ~200GB data, all calls\n    + texts, 5G included. Often cited as the cheapest 5G SIM-only\n    plan. Free SIM order online. Value-focused, popular with students.\n  - GoMo: ~€14.99/mo, unlimited domestic data (16GB roaming in\n    EU/UK), unlimited domestic + EU/UK calls and texts. Simple flat\n    pricing.\n  - Three: most affordable big network; PAYG SIMs from ~€10, plans\n    ~€15–25/mo. Strong value + coverage.\n  - Vodafone / Clear Mobile: ~€14.99/mo unlimited (speed-capped on\n    some plans). Widest coverage.\n  - Eir: competitive mid-tier pricing, coverage focused on populated\n    areas. | https://www.eir.ie\n  - Tesco Mobile: https://www.tescomobile.ie\n  Provider sites: 48 https://www.48.ie | Three https://www.three.ie |\n  Vodafone https://n.vodafone.ie\n  eSIM vs physical: most providers offer eSIM (instant) or a posted/\n  in-store physical SIM."
+        }
+      ],
+      "relatedGuides": [],
+      "lastVerified": "2026-06-08",
+      "verifyFlags": [
+        "VERIFY current prices — mobile deals change often"
+      ]
+    },
+    {
+      "id": "student-bank-account",
+      "title": "Open a Student Bank Account",
+      "category": "money",
+      "priority": "week_1",
+      "whoNeedsIt": "Any student who wants an Irish IBAN for rent, wages, bills, and day-to-day spending.",
+      "why": "Many landlords and employers need an Irish IBAN. Only licensed banks issue Irish IBANs; some employers won't accept non-Irish IBANs.",
+      "steps": [
+        {
+          "order": 1,
+          "text": "Choose traditional (full service, campus branches) and/or digital (instant, good as a backup)."
+        },
+        {
+          "order": 2,
+          "text": "For BOI/AIB: start the application online; some steps can be done pre-arrival."
+        },
+        {
+          "order": 3,
+          "text": "Gather documents (below)."
+        },
+        {
+          "order": 4,
+          "text": "Complete the application — in branch (often during orientation week) or in-app for digital banks."
+        },
+        {
+          "order": 5,
+          "text": "Receive your IBAN and debit card."
+        }
+      ],
+      "documents": [
+        "Passport",
+        "IRP or visa",
+        "University acceptance/enrolment letter",
+        "Proof of Irish address (tenancy agreement or utility bill)",
+        "Some banks may also ask for PPSN or a college Letter of Introduction"
+      ],
+      "fees": {
+        "amount": 0,
+        "currency": "EUR",
+        "note": "AIB Student Plus & BOI student accounts: no fees"
+      },
+      "timeframe": "- Traditional: 1–3 business days (often immediate during orientation periods) - Digital (Revolut): working account in minutes, full validation 1–2 days",
+      "officialLinks": [
+        {
+          "label": "aib.ie",
+          "url": "https://aib.ie/our-products/current-accounts/student-plus-account"
+        },
+        {
+          "label": "educationinireland.com",
+          "url": "https://www.educationinireland.com/en/living-in-ireland/banking-in-ireland"
+        }
+      ],
+      "tips": [
+        "Proof of Irish address is the usual sticky point — a college \"Letter of Introduction\" can help if you don't have a utility bill yet.",
+        "Open a digital account (Revolut/N26) BEFORE arrival so you can spend day one, then add a traditional account for the Irish IBAN.",
+        "Orientation week is the easiest time — banks set up stalls on campus."
+      ],
+      "extraSections": [
+        {
+          "label": "OPTIONS",
+          "text": "TRADITIONAL (licensed, Irish IBAN; usually need PPSN + Irish\n  address — apply after arrival):\n    - AIB Student Account — zero fees | https://aib.ie/students\n    - Bank of Ireland (BOI) student account — no maintenance/\n      transaction fees, contactless card, branches on many campuses\n      | https://www.bankofireland.com/personal/current-accounts/student-account/\n    - Permanent TSB student account |\n      https://www.permanenttsb.ie/current-accounts/explore-current-accounts/student/\n    - AIB & BOI let you START the application online before arrival\n      (BOI \"Coming to Ireland\", up to ~45 days before arrival)"
+        },
+        {
+          "label": "DIGITAL (FAST, NO PPSN NEEDED, CHECK IBAN/EMPLOYER ACCEPTANCE)",
+          "text": "- Revolut — licensed/regulated (Bank of Lithuania), provides an\n      Irish IBAN, currency exchange, physical + virtual cards,\n      Apple Pay. Opens in minutes. | https://www.revolut.com/en-IE/\n    - N26 — can open remotely with home-country details, no PPSN\n      required. | https://n26.com/en-ie"
+        },
+        {
+          "label": "NOTE",
+          "text": "confirm a digital account's IBAN is accepted by your\n    employer/landlord before relying on it as your main account."
+        }
+      ],
+      "relatedGuides": [
+        "ppsn",
+        "accommodation"
+      ],
+      "lastVerified": "2026-06-08",
+      "verifyFlags": []
+    },
+    {
+      "id": "student-leap-card",
+      "title": "Student Leap Card (public transport)",
+      "category": "transport",
+      "priority": "week_1",
+      "whoNeedsIt": "Full-time students who use public transport (bus, Luas, DART, train) in Ireland.",
+      "why": "Pays HALF-PRICE fares across the TFI network and is the cheapest way to travel. Also doubles as a student travel ID.",
+      "steps": [
+        {
+          "order": 1,
+          "text": "Apply online at leapcard.ie (student section / student.leapcard.ie)."
+        },
+        {
+          "order": 2,
+          "text": "Upload supporting evidence: a letter from your college/ institution confirming the course is full-time (15+ hrs) and over 6 months / 25 weeks. International students upload their university acceptance letter. Must be in English or Irish."
+        },
+        {
+          "order": 3,
+          "text": "Wait for the confirmation email saying your card is ready."
+        },
+        {
+          "order": 4,
+          "text": "Collect the card from a Student Leap Card agent — bring your student ID and valid proof of age."
+        },
+        {
+          "order": 5,
+          "text": "Top up with travel credit (online, app, shops, or machines)."
+        }
+      ],
+      "documents": [
+        "University acceptance / enrolment letter (English or Irish)",
+        "Student ID (for collection)",
+        "Valid proof of age ID (for collection)"
+      ],
+      "fees": {
+        "amount": 5,
+        "currency": "EUR",
+        "note": "€5 refundable deposit + minimum €5 travel credit"
+      },
+      "timeframe": "Apply online, wait for \"ready\" email, then collect. [VERIFY current processing time]",
+      "officialLinks": [
+        {
+          "label": "student.leapcard.ie",
+          "url": "https://student.leapcard.ie/"
+        },
+        {
+          "label": "transportforireland.ie",
+          "url": "https://www.transportforireland.ie/fares/leap-card/"
+        },
+        {
+          "label": "tcdsu.org",
+          "url": "https://www.tcdsu.org/services/student-leap-card"
+        }
+      ],
+      "tips": [
+        "Many Students' Unions (incl. TCD SU) are Leap Card agents — you can often apply and collect through them.",
+        "Set up auto top-up in the TFI Leap app so you never get caught short.",
+        "Tap on (and tap off on Luas/DART/rail) to be charged the correct fare."
+      ],
+      "extraSections": [
+        {
+          "label": "ELIGIBILITY",
+          "text": "- Full-time education, 15+ hours per week\n  - Course at least 6 months / 25 weeks long"
+        },
+        {
+          "label": "OTHER TRANSPORT (DUBLIN & NATIONWIDE)",
+          "text": "- Transport for Ireland (journey planner): https://www.transportforireland.ie\n  - Dublin Bus: https://www.dublinbus.ie\n  - Luas (Dublin tram, Red & Green lines): https://luas.ie\n  - Irish Rail (DART & national trains): https://www.irishrail.ie\n  - Bus Eireann (national bus network): https://www.buseireann.ie\n  - Dublin Bikes (~€35/year cycle share): https://www.dublinbikes.ie\n  - Taxi apps: Free Now https://www.free-now.com/ie/ | Uber https://www.uber.com/ie/en/\n  - Driving a foreign licence? See driving-licence.txt."
+        }
+      ],
+      "relatedGuides": [],
+      "lastVerified": "2026-06-08",
+      "verifyFlags": [
+        "VERIFY current processing time"
+      ]
+    },
+    {
+      "id": "student-life-discounts",
+      "title": "Student Life & Discounts",
+      "category": "lifestyle",
+      "priority": "first_month",
+      "whoNeedsIt": "Any student wanting discounts and community.",
+      "why": "Student cards save money on travel, shopping, and attractions; student bodies offer support and events.",
+      "steps": [],
+      "documents": [],
+      "fees": {
+        "amount": 0,
+        "currency": "EUR",
+        "note": ""
+      },
+      "timeframe": "",
+      "officialLinks": [],
+      "tips": [
+        "Attend Freshers' Week - join societies, meet people, grab freebies and discount sign-ups.",
+        "Always ask \"is there a student discount?\" - many cafes, cinemas, and shops offer one with a student ID."
+      ],
+      "extraSections": [
+        {
+          "label": "DISCOUNT CARDS",
+          "text": "- ISIC (International Student Identity Card) - worldwide student\n    discounts: https://www.isic.ie\n  - Student Universal Card (discounts in Ireland):\n    https://www.studentuniversalcard.ie\n  - Your Student Leap Card also acts as student ID for many discounts\n    (see student-leap-card.txt)."
+        },
+        {
+          "label": "STUDENT BODIES",
+          "text": "- Union of Students in Ireland (USI): https://usi.ie\n  - Your college's own Students' Union (SU) - events, support, and\n    often a Student Leap Card agent."
+        },
+        {
+          "label": "THINGS TO SEE & DO",
+          "text": "- Discover Ireland: https://www.ireland.ie\n  - Visit Dublin (official city guide): https://www.visitdublin.com"
+        }
+      ],
+      "relatedGuides": [],
+      "lastVerified": "2026-06-08",
+      "verifyFlags": []
+    },
+    {
+      "id": "tax-revenue",
+      "title": "Tax & Revenue (myAccount) — for working students",
+      "category": "money",
+      "priority": "first_month",
+      "whoNeedsIt": "Any student who takes a part-time/holiday job. Stamp 2 students can usually work limited hours.",
+      "why": "If Revenue has no record of your job, you are put on EMERGENCY TAX and lose a large chunk of your pay until it's fixed. Registering correctly prevents this.",
+      "steps": [
+        {
+          "order": 1,
+          "text": "Get your PPSN first (see ppsn.txt) — you cannot register properly without it."
+        },
+        {
+          "order": 2,
+          "text": "Give your PPSN to your employer."
+        },
+        {
+          "order": 3,
+          "text": "Create a Revenue myAccount at revenue.ie."
+        },
+        {
+          "order": 4,
+          "text": "In myAccount: go to 'PAYE Services' -> 'Jobs and Pensions' -> 'Add Job' and enter your employer's details. Do this BEFORE you start, or as soon as possible after."
+        },
+        {
+          "order": 5,
+          "text": "Revenue issues your employer a Revenue Payroll Notification (RPN) with your tax credits — this stops emergency tax."
+        },
+        {
+          "order": 6,
+          "text": "If you were already emergency-taxed, the overpayment is refunded automatically through payroll once the RPN is in place."
+        }
+      ],
+      "documents": [],
+      "fees": {
+        "amount": 0,
+        "currency": "EUR",
+        "note": "Free"
+      },
+      "timeframe": "Register before starting work; RPN issues quickly once the job is added.",
+      "officialLinks": [
+        {
+          "label": "citizensinformation.ie",
+          "url": "https://www.citizensinformation.ie/en/employment/starting-work-and-changing-job/starting-work/tax-and-starting-work/"
+        }
+      ],
+      "tips": [
+        "Register the job BEFORE your first payday — fixing emergency tax afterwards takes weeks.",
+        "Know your Stamp 2 work-hour limits (typically 20 hrs/week in term, 40 in holidays) — don't exceed them. [VERIFY]",
+        "Keep payslips; check you're getting your tax credits."
+      ],
+      "extraSections": [
+        {
+          "label": "HOW EMERGENCY TAX HURTS",
+          "text": "- With PPSN given: first 4 weeks taxed at 20% up to the standard\n    band (40% above), NO tax credits; after week 4, all income at\n    40%.\n  - With NO PPSN given: ALL income taxed at 40% from day one.\n  - USC and PRSI also apply at emergency rates."
+        },
+        {
+          "label": "GOOD NEWS FOR STUDENTS",
+          "text": "- Most part-time students earning under ~€13,000/year pay little or\n    no income tax, and are exempt from USC below that threshold; tax\n    credits offset most of the rest. [VERIFY thresholds for current\n    tax year]\n  - National minimum wage (2025): €13.50/hour. [VERIFY current rate]"
+        },
+        {
+          "label": "STAMP 2 WORK LIMITS (DON'T EXCEED)",
+          "text": "- Term time: MAX 20 hours/week\n  - Holidays: MAX 40 hours/week (June, July, August, September, and\n    15 December - 15 January)\n  - Exceeding these violates your visa conditions."
+        },
+        {
+          "label": "CLAIMING A TAX REFUND (IF OVER-TAXED)",
+          "text": "- https://www.revenue.ie/en/jobs-and-pensions/tax-refunds/index.aspx"
+        },
+        {
+          "label": "JOB SEARCH",
+          "text": "- IrishJobs.ie | JobsIreland.ie (government) | ie.indeed.com |\n    ie.linkedin.com\n  - Know your rights: Workplace Relations Commission,\n    https://www.workplacerelations.ie"
+        },
+        {
+          "label": "DOCUMENTS / PREREQUISITES",
+          "text": "- PPSN\n  - Employer's registration details (they provide)\n  - myAccount login (myGovID / myAccount)"
+        }
+      ],
+      "relatedGuides": [
+        "ppsn"
+      ],
+      "appliesTo": {
+        "requiresWillWork": true
+      },
+      "lastVerified": "2026-06-08",
+      "verifyFlags": [
+        "VERIFY thresholds for current\n    tax year",
+        "VERIFY current rate",
+        "VERIFY rates/bands for the current tax year",
+        "VERIFY"
+      ]
+    },
+    {
+      "id": "visa-application",
+      "title": "Student Visa Application (before arrival)",
+      "category": "legal",
+      "priority": "pre_arrival",
+      "whoNeedsIt": "Non-EU/EEA students from VISA-REQUIRED countries must apply BEFORE travelling. EU/EEA/Swiss: no visa, no IRP. Non-EU from NON-VISA-REQUIRED countries (e.g. USA, Canada, Australia, Brazil): no entry visa, but you MUST still register for IRP within 90 days (see irp-registration.txt).",
+      "why": "Legal permission to enter Ireland to study. Without it, visa-required nationals cannot board/enter. DO YOU NEED A VISA? - Check your nationality: https://www.irishimmigration.ie/coming-to-study-in-ireland/ - Student immigration FAQ: https://www.irishimmigration.ie/registering-your-immigration-permission/frequently-asked-questions-for-registration/",
+      "steps": [],
+      "documents": [],
+      "fees": {
+        "amount": 60,
+        "currency": "EUR",
+        "note": "C-type or D-type single EUR 60 / multiple EUR 100"
+      },
+      "timeframe": "4-8 weeks (up to 10-12 in peak season)",
+      "officialLinks": [
+        {
+          "label": "visas.inis.gov.ie",
+          "url": "https://www.visas.inis.gov.ie"
+        },
+        {
+          "label": "irishimmigration.ie",
+          "url": "https://www.irishimmigration.ie"
+        },
+        {
+          "label": "citizensinformation.ie",
+          "url": "https://www.citizensinformation.ie/en/moving-country/moving-to-ireland/coming-to-live-in-ireland/student-visas/"
+        },
+        {
+          "label": "immigrantcouncil.ie",
+          "url": "https://www.immigrantcouncil.ie/rights/international-students"
+        }
+      ],
+      "tips": [
+        "Confirm your course is on the ILEP BEFORE paying anything.",
+        "Pay tuition (at least first semester) before applying — required.",
+        "Write a strong, specific Statement of Purpose.",
+        "Apply early; peak-season processing is slow."
+      ],
+      "extraSections": [
+        {
+          "label": "VISA TYPES",
+          "text": "- C-type (Short Stay): courses UNDER 3 months. Single entry.\n  - D-type (Long Stay Study): courses OVER 3 months — MOST STUDENTS\n    NEED THIS. Fees: EUR 60 single entry / EUR 100 multiple entry.\n    After arriving on a D visa, you register for Stamp 2 (IRP)."
+        },
+        {
+          "label": "1. COURSE",
+          "text": "full-time, minimum 15 hours/week daytime classes, AND\n     listed on the ILEP (Interim List of Eligible Programmes).\n     Check ILEP first:\n     https://www.irishimmigration.ie/coming-to-study-in-ireland/what-are-my-study-options/ilep-current-list/\n     ILEP covers higher education (degrees/diplomas/masters), some\n     English-language programmes, further education & training, and\n     professional/vocational programmes."
+        },
+        {
+          "label": "2. FINANCES (UPDATED JUNE 2025)",
+          "text": "prove IMMEDIATE ACCESS to:\n       - EUR 10,000 for living costs PER YEAR of study (separate\n         from tuition), OR\n       - For 6-8 month courses: EUR 833/month (EUR 4,998 for 6 mo /\n         EUR 6,665 for 8 mo)\n       - PLUS proof of tuition fee payment (at least first semester)\n     Accepted evidence: 6 months' bank statements; funds clearly\n     accessible and under your control; no large unexplained\n     deposits; credit cards NOT accepted; loan sanction letter /\n     scholarship letter / sponsor docs + proof of relationship if\n     applicable.\n     Official update:\n     https://www.irishimmigration.ie/reminder-on-student-finance-requirements-from-30-june-2025/"
+        },
+        {
+          "label": "3. ENGLISH LANGUAGE",
+          "text": "valid certificate issued within 2 years of\n     course start (one sitting; cannot combine dates):\n       IELTS Academic: UG 6.0 (no band <5.5) / PG 6.5 / English 5.0\n       TOEFL iBT:      UG 80 / PG 90-100 (check institution) / Eng 61\n       PTE Academic:   UG 55 / PG 59 / English 30\n       Duolingo:       accepted by many (not all) - check yours"
+        },
+        {
+          "label": "4. HEALTH INSURANCE",
+          "text": "private cover valid in Ireland BEFORE applying;\n     min EUR 25,000 accident AND EUR 25,000 illness/hospitalisation,\n     for full duration of stay. See health-gp.txt."
+        },
+        {
+          "label": "5. OTHER",
+          "text": "passport valid 12+ months from arrival; good character\n     (no serious criminal record); genuine student intent; intent to\n     leave after studies; DISCLOSE any prior visa refusal (anywhere);\n     explain any education gaps in writing."
+        },
+        {
+          "label": "HOW TO APPLY (AVATS)",
+          "text": "Portal: https://www.visas.inis.gov.ie\n  1. Create an AVATS account.\n  2. Complete the online form (match your passport exactly; choose\n     \"D Study Visa\" if course > 3 months).\n  3. Pay the fee online (EUR 60 single / EUR 100 multiple).\n  4. Print and sign the summary form + declaration page.\n  5. Gather required documents (see document-checklists.txt -> VISA).\n  6. Submit physical documents to your nearest Irish Embassy/\n     Consulate. Find it: https://www.ireland.ie/en/dfa/embassies/\n  7. Wait for a decision: normally 4-8 weeks; peak season (Jun-Sep)\n     up to 10-12 weeks. APPLY WELL IN ADVANCE.\n  8. Travel to Ireland; keep your visa approval docs; register for\n     IRP within 90 days."
+        },
+        {
+          "label": "COMMON REASONS FOR REFUSAL (AVOID)",
+          "text": "- Funds below EUR 10,000 living costs\n  - Tuition not paid before applying\n  - Institution not on ILEP\n  - Weak/vague cover letter or Statement of Purpose\n  - No clear ties to home country\n  - Unexplained education gaps\n  - Prior visa refusals not disclosed\n  - Medical insurance not valid in Ireland\n  - Inconsistent information across documents"
+        }
+      ],
+      "relatedGuides": [],
+      "appliesTo": {
+        "nationalityClass": [
+          "non_eea"
+        ]
+      },
+      "lastVerified": "2026-06-08",
+      "verifyFlags": []
+    }
+  ],
+  "timelineRules": [
+    {
+      "taskId": "visa-application",
+      "phase": "pre_arrival",
+      "timingRule": {
+        "anchor": "courseStart",
+        "offsetDays": -56
+      },
+      "hardDeadline": true,
+      "blockedBy": [],
+      "showCountdown": false
+    },
+    {
+      "taskId": "accommodation",
+      "phase": "pre_arrival",
+      "timingRule": {
+        "anchor": "arrivalDate",
+        "offsetDays": -60
+      },
+      "hardDeadline": false,
+      "blockedBy": [],
+      "showCountdown": false
+    },
+    {
+      "taskId": "sim-card",
+      "phase": "week_1",
+      "timingRule": {
+        "anchor": "arrivalDate",
+        "offsetDays": 1
+      },
+      "hardDeadline": false,
+      "blockedBy": [],
+      "showCountdown": false
+    },
+    {
+      "taskId": "student-bank-account",
+      "phase": "week_1",
+      "timingRule": {
+        "anchor": "arrivalDate",
+        "offsetDays": 2
+      },
+      "hardDeadline": false,
+      "blockedBy": [
+        "accommodation"
+      ],
+      "showCountdown": false
+    },
+    {
+      "taskId": "student-leap-card",
+      "phase": "week_1",
+      "timingRule": {
+        "anchor": "arrivalDate",
+        "offsetDays": 5
+      },
+      "hardDeadline": false,
+      "blockedBy": [],
+      "showCountdown": false
+    },
+    {
+      "taskId": "ppsn",
+      "phase": "first_month",
+      "timingRule": {
+        "anchor": "arrivalDate",
+        "offsetDays": 21
+      },
+      "hardDeadline": false,
+      "blockedBy": [
+        "accommodation"
+      ],
+      "showCountdown": false
+    },
+    {
+      "taskId": "health-gp",
+      "phase": "first_month",
+      "timingRule": {
+        "anchor": "arrivalDate",
+        "offsetDays": 21
+      },
+      "hardDeadline": false,
+      "blockedBy": [],
+      "showCountdown": false
+    },
+    {
+      "taskId": "student-life-discounts",
+      "phase": "first_month",
+      "timingRule": {
+        "anchor": "arrivalDate",
+        "offsetDays": 14
+      },
+      "hardDeadline": false,
+      "blockedBy": [],
+      "showCountdown": false
+    },
+    {
+      "taskId": "driving-licence",
+      "phase": "first_month",
+      "timingRule": {
+        "anchor": "arrivalDate",
+        "offsetDays": 30
+      },
+      "hardDeadline": false,
+      "blockedBy": [],
+      "showCountdown": false
+    },
+    {
+      "taskId": "irp-registration",
+      "phase": "first_90_days",
+      "timingRule": {
+        "anchor": "arrivalDate",
+        "offsetDays": 90
+      },
+      "hardDeadline": true,
+      "blockedBy": [
+        "accommodation"
+      ],
+      "showCountdown": true
+    },
+    {
+      "taskId": "tax-revenue",
+      "phase": "when_working",
+      "timingRule": {
+        "anchor": "courseStart",
+        "offsetDays": 0
+      },
+      "hardDeadline": false,
+      "blockedBy": [
+        "ppsn"
+      ],
+      "showCountdown": false
+    }
+  ],
+  "prefillTemplates": [
+    {
+      "id": "ppsn-college-letter-request",
+      "type": "email",
+      "title": "Request to university for PPSN letter",
+      "subject": "Request for PPSN confirmation letter — {{full_name}}, {{student_id}}",
+      "body": "Dear {{university}} International/Student Office,\n\nI am a registered {{course_name}} student (student ID {{student_id}})\nand I am applying for a PPSN (Personal Public Service Number) for the\npurpose of my studies.\n\nCould you please provide a letter, addressed to the tax office,\nconfirming that I am a full-time student and that I require a PPSN for\nmy studies? I understand this letter is accepted by the Department of\nSocial Protection as evidence for the PPSN application.\n\nMy details:\n  Full name: {{full_name}}\n  Date of birth: {{date_of_birth}}\n  Nationality: {{nationality}}\n  Irish address: {{irish_address}}\n  Course: {{course_name}}\n  Course start: {{course_start}}\n\nThank you very much for your help.\n\nKind regards,\n{{full_name}}\n{{phone_irish}} | {{email}}\n\n----------------------------------------------------------------",
+      "placeholders": [
+        "full_name",
+        "student_id",
+        "university",
+        "course_name",
+        "date_of_birth",
+        "nationality",
+        "irish_address",
+        "course_start",
+        "phone_irish",
+        "email"
+      ],
+      "relatedGuide": "ppsn"
+    },
+    {
+      "id": "ppsn-reason-letter",
+      "type": "letter",
+      "title": "PPSN \"reason for application\" letter",
+      "body": "(the supporting letter, as the office would issue it — for reference)\n----------------------------------------------------------------\n[University letterhead]\nDate: {{today}}\n\nTo the PPSN Registration Office / Department of Social Protection,\n\nThis is to confirm that {{full_name}} (date of birth {{date_of_birth}},\nnationality {{nationality}}) is a registered full-time student at\n{{university}}, enrolled on the {{course_name}} programme commencing\n{{course_start}}.\n\n{{full_name}} requires a Personal Public Service Number for the\npurpose of their studies and associated services in Ireland. Their\ncurrent address in Ireland is {{irish_address}}.\n\nPlease provide any assistance required.\n\nYours faithfully,\n[Name, Office, {{university}}]\n\n----------------------------------------------------------------",
+      "placeholders": [
+        "today",
+        "full_name",
+        "date_of_birth",
+        "nationality",
+        "university",
+        "course_name",
+        "course_start",
+        "irish_address"
+      ],
+      "relatedGuide": "ppsn"
+    },
+    {
+      "id": "gp-registration-enquiry",
+      "type": "email",
+      "title": "Enquiry to a GP practice (new patient)",
+      "subject": "New patient registration enquiry",
+      "body": "Hello,\n\nI am an international student at {{university}}, recently arrived in\nIreland and living at {{irish_address}}. I would like to register as\na new patient. Could you let me know if you are currently accepting\nnew patients, what documents you require, and your consultation fees?\n\nI have private health insurance and can provide ID and proof of\naddress.\n\nThank you,\n{{full_name}}\n{{phone_irish}}\n\n----------------------------------------------------------------",
+      "placeholders": [
+        "university",
+        "irish_address",
+        "full_name",
+        "phone_irish"
+      ],
+      "relatedGuide": "health-gp"
+    },
+    {
+      "id": "accommodation-viewing-enquiry",
+      "type": "email",
+      "title": "Accommodation viewing enquiry (with scam-safe note)",
+      "subject": "Viewing enquiry — {{listing_reference}}",
+      "body": "Hi,\n\nI'm an international student at {{university}} starting {{course_start}}\nand interested in your listing ({{listing_reference}}). Is it still\navailable, and could I arrange a viewing (in person or video call)\nbefore proceeding?\n\nThank you,\n{{full_name}}\n{{phone_irish}}\n\n[Site safety note shown to user, NOT sent: never pay a deposit before\nverifying the property and landlord are genuine.]",
+      "placeholders": [
+        "listing_reference",
+        "university",
+        "course_start",
+        "full_name",
+        "phone_irish"
+      ],
+      "relatedGuide": "accommodation"
+    }
+  ],
+  "docChecklists": [
+    {
+      "taskId": "visa-application",
+      "title": "STUDENT VISA APPLICATION (AVATS, before arrival)",
+      "items": [
+        "----------------------------------------------------------------",
+        "Valid passport (12+ months validity from arrival date)",
+        "Two recent passport-sized colour photos",
+        "Signed AVATS application summary form + declaration page",
+        "Letter of acceptance (full-time, ILEP course, start/end dates)",
+        "Proof of tuition fee payment (first semester minimum)",
+        "Bank statements - last 6 months (show access to EUR 10,000)",
+        "Private health insurance certificate (EUR 25,000+ cover)",
+        "English language test certificate (< 2 years old)",
+        "Academic transcripts & certificates",
+        "Statement of Purpose / cover letter",
+        "Proof of accommodation in Ireland If applicable:",
+        "Loan/scholarship letter, or sponsor's bank statements + proof of relationship + letter of undertaking",
+        "Written explanation of any education gaps",
+        "Details of any previous visa refusals (any country)",
+        "Police clearance certificate (some embassies) ----------------------------------------------------------------"
+      ]
+    },
+    {
+      "taskId": "ppsn",
+      "title": "PPSN APPOINTMENT",
+      "items": [
+        "----------------------------------------------------------------",
+        "Passport",
+        "College PPSN letter (states PPSN needed for study; addressed to tax office)",
+        "Proof of long-term Irish address",
+        "MyGovID / MyWelfare account set up",
+        "Appointment confirmation (from MyWelfare) NOTE: temporary/short-term address is NOT accepted. ----------------------------------------------------------------"
+      ],
+      "note": "temporary/short-term address is NOT accepted."
+    },
+    {
+      "taskId": "irp-registration",
+      "title": "IRP REGISTRATION APPOINTMENT (Burgh Quay, Dublin)",
+      "items": [
+        "----------------------------------------------------------------",
+        "Passport (+ biometric page) and entry visa if applicable",
+        "University admission/enrolment letter",
+        "Proof of Irish address",
+        "Proof of financial means (if required)",
+        "Private medical insurance certificate (meets minimum cover)",
+        "€300 registration fee (payment ready)",
+        "ISD portal appointment confirmation ----------------------------------------------------------------"
+      ]
+    },
+    {
+      "taskId": "student-bank-account",
+      "title": "BANK ACCOUNT OPENING",
+      "items": [
+        "----------------------------------------------------------------",
+        "Passport",
+        "IRP or visa",
+        "University acceptance/enrolment letter",
+        "Proof of Irish address (tenancy agreement or utility bill)",
+        "PPSN (some banks) / college Letter of Introduction (some banks) ----------------------------------------------------------------"
+      ]
+    },
+    {
+      "taskId": "student-leap-card",
+      "title": "STUDENT LEAP CARD (online + collection)",
+      "items": [
+        "---------------------------------------------------------------- Online application:",
+        "University acceptance letter (English or Irish), confirming full-time 15+ hrs, 25+ weeks At collection:",
+        "Student ID",
+        "Valid proof of age ID",
+        "€5 deposit + €5 minimum credit ----------------------------------------------------------------"
+      ]
+    },
+    {
+      "taskId": "health-gp",
+      "title": "GP REGISTRATION",
+      "items": [
+        "----------------------------------------------------------------",
+        "Passport / photo ID",
+        "Proof of Irish address",
+        "Health insurance details",
+        "Practice registration form (from the GP) ----------------------------------------------------------------"
+      ]
+    },
+    {
+      "taskId": "tax-revenue",
+      "title": "TAX / REVENUE (register a job)",
+      "items": [
+        "----------------------------------------------------------------",
+        "PPSN",
+        "Employer registration details",
+        "Revenue myAccount login ----------------------------------------------------------------"
+      ]
+    },
+    {
+      "taskId": "sim-card",
+      "title": "SIM CARD",
+      "items": [
+        "----------------------------------------------------------------",
+        "Passport (most prepaid SIMs need nothing more) LAST VERIFIED: 8 June 2026"
+      ]
+    }
+  ],
+  "forumSeed": [
+    {
+      "id": "post_001",
+      "taskTag": "irp",
+      "title": "Got my Dublin IRP slot — check the portal at 8am",
+      "authorAlias": "maptolife",
+      "authorNationality": "India",
+      "body": "The ISD portal releases appointment slots on a rolling basis.",
+      "upvotes": 142,
+      "isSeed": true,
+      "createdAt": "2026-06-08T00:00:00Z",
+      "status": "published"
+    },
+    {
+      "id": "post_002",
+      "taskTag": "ppsn",
+      "title": "Sort your accommodation BEFORE trying for a PPSN",
+      "authorAlias": "dublin_grad",
+      "authorNationality": "Nigeria",
+      "body": "I wasted two weeks because my hostel address didn't count —",
+      "upvotes": 98,
+      "isSeed": true,
+      "createdAt": "2026-06-08T00:00:00Z",
+      "status": "published"
+    },
+    {
+      "id": "post_003",
+      "taskTag": "bank",
+      "title": "Revolut on day one, AIB for the Irish IBAN later",
+      "authorAlias": "ll_m",
+      "authorNationality": "China",
+      "body": "Opened Revolut from home before flying so I could spend",
+      "upvotes": 76,
+      "isSeed": true,
+      "createdAt": "2026-06-08T00:00:00Z",
+      "status": "published"
+    },
+    {
+      "id": "post_004",
+      "taskTag": "leap",
+      "title": "Apply for the Student Leap Card through your SU",
+      "authorAlias": "trinity_fresher",
+      "authorNationality": "Brazil",
+      "body": "TCD SU is a Leap agent, so I applied and collected on campus.",
+      "upvotes": 54,
+      "isSeed": true,
+      "createdAt": "2026-06-08T00:00:00Z",
+      "status": "published"
+    },
+    {
+      "id": "post_005",
+      "taskTag": "sim",
+      "title": "48 plan = best value for students",
+      "authorAlias": "budgetmover",
+      "authorNationality": "Pakistan",
+      "body": "€12.99/month, loads of data, 5G, all calls/texts. Ordered the",
+      "upvotes": 61,
+      "isSeed": true,
+      "createdAt": "2026-06-08T00:00:00Z",
+      "status": "published"
+    },
+    {
+      "id": "post_006",
+      "taskTag": "tax",
+      "title": "Register your job in myAccount BEFORE your first shift",
+      "authorAlias": "parttime_paye",
+      "authorNationality": "Malaysia",
+      "body": "I forgot and got hit with emergency tax — lost a big chunk of my",
+      "upvotes": 47,
+      "isSeed": true,
+      "createdAt": "2026-06-08T00:00:00Z",
+      "status": "published"
+    },
+    {
+      "id": "post_007",
+      "taskTag": "accommodation",
+      "title": "Never pay a deposit before viewing — scam warning",
+      "authorAlias": "safe_renting",
+      "authorNationality": "Vietnam",
+      "body": "A \"landlord\" asked me to transfer a deposit before viewing,",
+      "upvotes": 130,
+      "isSeed": true,
+      "createdAt": "2026-06-08T00:00:00Z",
+      "status": "published"
+    },
+    {
+      "id": "post_008",
+      "taskTag": "health",
+      "title": "Use the campus health centre — way cheaper",
+      "authorAlias": "wellstudent",
+      "authorNationality": "Egypt",
+      "body": "Campus GP visits were ~€20 vs €60 at an external clinic. Keep",
+      "upvotes": 39,
+      "isSeed": true,
+      "createdAt": "2026-06-08T00:00:00Z",
+      "status": "published"
+    },
+    {
+      "id": "post_009",
+      "taskTag": "irp",
+      "title": "Stamp 2 work hours — know the limit",
+      "authorAlias": "working_student",
+      "authorNationality": "Philippines",
+      "body": "On Stamp 2 you can work limited hours in term and more during",
+      "upvotes": 44,
+      "isSeed": true,
+      "createdAt": "2026-06-08T00:00:00Z",
+      "status": "published"
+    },
+    {
+      "id": "post_010",
+      "taskTag": "general",
+      "title": "My first-week order of operations",
+      "authorAlias": "onboarded",
+      "authorNationality": "Kenya",
+      "body": "What worked for me: 1) SIM at the airport, 2) confirm",
+      "upvotes": 88,
+      "isSeed": true,
+      "createdAt": "2026-06-08T00:00:00Z",
+      "status": "published"
+    },
+    {
+      "id": "post_011",
+      "taskTag": "bank",
+      "title": "Bring proof of address or you'll get turned away",
+      "authorAlias": "paperwork_pro",
+      "authorNationality": "Mexico",
+      "body": "The bank wouldn't open my account without proof of Irish",
+      "upvotes": 33,
+      "isSeed": true,
+      "createdAt": "2026-06-08T00:00:00Z",
+      "status": "published"
+    },
+    {
+      "id": "post_012",
+      "taskTag": "ppsn",
+      "title": "MyGovID first, then MyWelfare",
+      "authorAlias": "stepbystep",
+      "authorNationality": "Indonesia",
+      "body": "Set up a basic MyGovID account first, then everything in",
+      "upvotes": 29,
+      "isSeed": true,
+      "createdAt": "2026-06-08T00:00:00Z",
+      "status": "published"
+    }
+  ],
+  "glossary": [],
+  "curatedLinks": [],
+  "contacts": []
+}
