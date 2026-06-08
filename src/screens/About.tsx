@@ -56,7 +56,7 @@ export function About() {
         <ul className="list-disc space-y-1.5 pl-5 text-ink">
           <li>Everything you enter stays in <strong>this browser only</strong>. We have no server and no account.</li>
           <li>Sensitive details like your passport number and date of birth are never sent anywhere or logged.</li>
-          <li>SettleIn never logs into portals, submits applications, or takes payments on your behalf.</li>
+          <li>Ireland Buddy never logs into portals, submits applications, or takes payments on your behalf.</li>
           <li>You can delete all of your data at any time, below.</li>
         </ul>
       </section>

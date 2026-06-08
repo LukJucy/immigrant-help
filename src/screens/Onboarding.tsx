@@ -151,7 +151,7 @@ function buildSteps(draft: Draft, set: (p: Partial<Draft>) => void, isEu: boolea
 
   const nameStep: Step = {
     question: "What should we call you?",
-    help: "We use your name on the letters SettleIn drafts for you.",
+    help: "We use your name on the letters Ireland Buddy drafts for you.",
     valid: draft.fullName.trim().length > 1,
     field: (
       <label className="block">

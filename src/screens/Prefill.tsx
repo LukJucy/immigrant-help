@@ -83,9 +83,9 @@ export function Prefill() {
     if (!reminderDate) return;
     const ics = buildDeadlineIcs(
       guide!.id,
-      `SettleIn: ${guide!.title}`,
+      `Ireland Buddy: ${guide!.title}`,
       reminderDate,
-      `Reminder to handle "${guide!.title}". See SettleIn for the steps and documents.`,
+      `Reminder to handle "${guide!.title}". See Ireland Buddy for the steps and documents.`,
       today,
     );
     downloadFile(`${guide!.id}-reminder.ics`, ics, "text/calendar;charset=utf-8");
