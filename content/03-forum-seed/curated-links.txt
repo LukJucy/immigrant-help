@@ -1,0 +1,56 @@
+==============================================================
+FORUM SEED: Curated external references
+==============================================================
+
+PURPOSE
+-------
+Vetted EXTERNAL links to point students to existing community/official
+content. IMPORTANT: link out, don't scrape/copy — respect platform
+terms and copyright. Each task guide surfaces a small set of these.
+Verify links are live and current before display.
+
+OFFICIAL / AUTHORITATIVE (always prefer these)
+----------------------------------------------
+  PPSN ........... https://www.gov.ie/en/department-of-social-protection/services/get-a-personal-public-service-pps-number/
+  PPSN (MyWelfare) https://services.mywelfare.ie/
+  IRP ............ https://www.irishimmigration.ie/registering-your-immigration-permission/
+  Citizens Info .. https://www.citizensinformation.ie/  (plain-English on every topic)
+  Leap Card ...... https://student.leapcard.ie/
+  TFI ............ https://www.transportforireland.ie/fares/leap-card/
+  Revenue ........ https://www.revenue.ie/  (myAccount, tax)
+  RTB (renting) .. https://rtb.ie/students/
+  Threshold ...... https://threshold.ie/  (free tenancy advice)
+  ICOS / Intl students https://www.internationalstudents.ie/
+
+UNIVERSITY / STUDENT-OFFICE GUIDES (high trust, kept current)
+-------------------------------------------------------------
+  Trinity (TCD) arriving in Ireland .. https://www.tcd.ie/study/international/arriving-in-ireland/
+  TCD SU Leap Card ................... https://www.tcdsu.org/services/student-leap-card
+  Education in Ireland (banking) ..... https://www.educationinireland.com/en/living-in-ireland/banking-in-ireland
+  Dublin.ie student accommodation .... https://dublin.ie/study/student-life/finding-student-accommodation/
+  UCC / NCI / UCD info hubs .......... (add per university)
+
+COMMUNITY (surface as references, do NOT scrape)
+------------------------------------------------
+  Reddit: r/IrishStudents, r/ireland, r/Dublin
+    -> link to specific high-quality threads per task tag
+  YouTube: "moving to Ireland as a student" arrival vlogs
+    -> embed/link official channel videos only
+  Student blogs: university student ambassador blogs
+    -> link, with attribution
+
+COMPARISON / TOOLS
+------------------
+  goosed.ie ...... independent Irish SIM/broadband deal comparison
+  bonkers.ie ..... utilities/insurance comparison
+
+CURATION RULES
+--------------
+  - Prefer official > university > community.
+  - Show a "last checked" date on each link.
+  - Never reproduce full third-party articles; link and quote
+    minimally with attribution.
+  - Remove dead/outdated links during the monthly content review.
+
+LAST VERIFIED: 8 June 2026
+==============================================================

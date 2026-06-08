@@ -1,0 +1,49 @@
+==============================================================
+PREFILL: User Profile Fields
+==============================================================
+
+PURPOSE
+-------
+The fields a user enters ONCE during onboarding. Everything else on
+the site (task list, timeline, document checklists, letter drafts) is
+personalised from these. Keep onboarding short — only ask what changes
+the output.
+
+CORE FIELDS (minimum onboarding)
+--------------------------------
+  field            type        used for
+  ---------------  ----------  ------------------------------------
+  full_name        text        letters, forms
+  nationality      dropdown    EU/EEA vs non-EEA -> shows/hides IRP
+  visa_stamp       dropdown    Stamp 2 / Stamp 1G / EU -> permission rules
+  university       dropdown    college letters, campus services, SU agent
+  course_start     date        timeline anchor (term start)
+  arrival_date     date        timeline anchor (90-day IRP clock)
+
+EXTENDED FIELDS (for prefill / forms)
+-------------------------------------
+  passport_number  text        forms (NEVER store unencrypted)
+  passport_expiry  date        forms
+  date_of_birth    date        forms, proof of age
+  home_address     text        pre-arrival applications
+  irish_address    text        PPSN/bank/IRP proof of address
+  has_accommodation bool       gates PPSN guidance
+  phone_irish      text        2FA, appointments
+  email            text        notifications
+  will_work        bool        shows/hides tax + PPSN-for-work guidance
+
+DERIVED FLAGS (computed, not entered)
+-------------------------------------
+  needs_irp        = nationality is non-EEA AND stay > 90 days
+  irp_deadline     = arrival_date + 90 days
+  needs_ppsn       = will_work OR needs bank/public service
+  show_tax_guide   = will_work == true
+
+PRIVACY NOTES
+-------------
+  - Passport number / DOB are sensitive: encrypt at rest, minimise,
+    and prefer client-side-only handling for the hackathon demo.
+  - GDPR applies. Collect only what's needed; let users delete data.
+
+LAST VERIFIED: 8 June 2026
+==============================================================

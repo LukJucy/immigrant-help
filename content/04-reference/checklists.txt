@@ -1,0 +1,76 @@
+==============================================================
+REFERENCE: Stage Checklists (pre-arrival -> graduation)
+==============================================================
+
+PURPOSE
+-------
+Ready-made checklists the site renders as tick-lists, keyed to the
+user's timeline. Source: user pre-arrival/after-arrival/visa guides.
+
+----------------------------------------------------------------
+3-6 MONTHS BEFORE ARRIVAL
+----------------------------------------------------------------
+  [ ] Confirm your course is on the ILEP register
+  [ ] Accept your college offer and pay tuition fees (keep proof)
+  [ ] Arrange private health insurance (EUR 25,000+ cover)
+  [ ] Ensure EUR 10,000 is accessible in your bank account
+  [ ] Obtain your English language test certificate
+  [ ] Apply for your student visa on AVATS (allow 4-12 weeks)
+  [ ] Find accommodation in Ireland (start early!)
+
+----------------------------------------------------------------
+1-2 MONTHS BEFORE ARRIVAL
+----------------------------------------------------------------
+  [ ] Confirm your visa has been approved
+  [ ] Gather all ORIGINAL documents for IRP registration
+  [ ] Book your flight (compare Ryanair, Aer Lingus)
+  [ ] Confirm accommodation arrangements
+  [ ] Open a Revolut/N26 account (works immediately, no PPSN)
+  [ ] Get EHIC card if you are an EU student
+  [ ] Download the Transport for Ireland app
+  [ ] Note emergency numbers: 999 / 112
+  [ ] Check if your driving licence needs conversion
+  [ ] Contact your college's international student office
+
+----------------------------------------------------------------
+ON ARRIVAL
+----------------------------------------------------------------
+  [ ] Keep passport and all documents accessible
+  [ ] Note your arrival date (your 90-day IRP clock starts)
+  [ ] Buy an Irish SIM card (airport/newsagent/supermarket)
+  [ ] Book IRP appointment at inisonline.jahs.ie (same/next day!)
+
+----------------------------------------------------------------
+FIRST WEEK ON ARRIVAL
+----------------------------------------------------------------
+  [ ] Book IRP appointment: inisonline.jahs.ie
+  [ ] Register at your college and get your student card
+  [ ] Apply for PPS number: mywelfare.ie
+  [ ] Get a Student Leap card: leapcard.ie
+  [ ] Buy an Irish SIM card (if not done at airport)
+  [ ] Register with college health centre / a local GP
+  [ ] Open a traditional bank account (AIB/BOI) for an Irish IBAN
+  [ ] Attend Freshers' Week and join societies
+
+----------------------------------------------------------------
+WITHIN 90 DAYS OF ARRIVAL
+----------------------------------------------------------------
+  [ ] Attend IRP registration appointment at Burgh Quay
+  [ ] Pay EUR 300 registration fee
+  [ ] Receive Stamp 2 - IRP card posted to your address
+
+----------------------------------------------------------------
+EACH YEAR
+----------------------------------------------------------------
+  [ ] Renew IRP online 12 weeks before expiry (not earlier)
+  [ ] Renew health insurance
+  [ ] Maintain enrolment and attendance at college
+
+----------------------------------------------------------------
+AFTER GRADUATION
+----------------------------------------------------------------
+  [ ] Apply for Stamp 1G (graduate visa) before Stamp 2 expires
+  [ ] Begin job search (you have 12-24 months)
+
+LAST VERIFIED: 8 June 2026
+==============================================================

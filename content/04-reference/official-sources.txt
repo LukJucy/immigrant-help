@@ -1,0 +1,130 @@
+==============================================================
+REFERENCE: Official Source Index
+==============================================================
+
+PURPOSE
+-------
+Master list of authoritative sources per task, with what each is good
+for. The site uses these as the "Official link" on every guide and as
+the targets for the monthly accuracy review (see content-maintenance).
+
+VISA & IMMIGRATION (PRE-ARRIVAL)
+  - AVATS visa application portal: https://www.visas.inis.gov.ie
+  - Main immigration portal: https://www.irishimmigration.ie
+  - Check if your country needs a visa:
+    https://www.irishimmigration.ie/coming-to-study-in-ireland/
+  - ILEP (eligible course list):
+    https://www.irishimmigration.ie/coming-to-study-in-ireland/what-are-my-study-options/ilep-current-list/
+  - Financial requirements (June 2025 update):
+    https://www.irishimmigration.ie/reminder-on-student-finance-requirements-from-30-june-2025/
+  - Citizens Information (student visas):
+    https://www.citizensinformation.ie/en/moving-country/moving-to-ireland/coming-to-live-in-ireland/student-visas/
+  - Immigrant Council of Ireland (free advice):
+    https://www.immigrantcouncil.ie/rights/international-students
+  - Find your nearest Irish Embassy:
+    https://www.ireland.ie/en/dfa/embassies/
+  - IRP appointment booking (first-time): https://inisonline.jahs.ie
+  - Required documents (first registration):
+    https://www.irishimmigration.ie/registering-your-immigration-permission/how-to-register-your-immigration-permission-for-the-first-time/required-documents/
+  - IRP renewals & live processing times:
+    https://www.irishimmigration.ie/registering-your-immigration-permission/how-to-renew-your-current-permission/
+  - Graduate programme (Stamp 1G):
+    https://www.irishimmigration.ie/my-situation-has-changed-since-i-arrived-in-ireland/graduate-programme/
+  - Registration FAQ:
+    https://www.irishimmigration.ie/registering-your-immigration-permission/frequently-asked-questions-for-registration/
+
+COLLEGES (international offices)
+  - HEA accredited colleges list:
+    https://hea.ie/skills-engagement/international-education-mark/iem-holders/
+  - Study in Ireland (official): https://www.educationinireland.com
+  - UCD ucd.ie/international | TCD tcd.ie/study/international |
+    DCU dcu.ie/international | Galway nuigalway.ie/international-students |
+    UCC ucc.ie/en/study/international | TU Dublin tudublin.ie/international |
+    Maynooth maynoothuniversity.ie/international | UL ul.ie/international |
+    TUS tus.ie/international
+
+PPSN
+  - gov.ie service page:
+    https://www.gov.ie/en/department-of-social-protection/services/get-a-personal-public-service-pps-number/
+  - MyWelfare (apply + book appointment):
+    https://services.mywelfare.ie/
+  - Citizens Information (plain-English):
+    https://www.citizensinformation.ie/en/social-welfare/irish-social-welfare-system/personal-public-service-number/
+
+IRP / IMMIGRATION
+  - Immigration Service Delivery (register permission, IRP):
+    https://www.irishimmigration.ie/registering-your-immigration-permission/information-on-registering/irish-residence-permit/
+  - ISD Customer Portal (book Dublin first-time appointment): via irishimmigration.ie
+  - Citizens Information (registration of non-EEA nationals):
+    https://www.citizensinformation.ie/en/moving-country/moving-to-ireland/rights-of-residence-in-ireland/registration-of-non-eea-nationals-in-ireland/
+
+BANKING
+  - AIB students: https://aib.ie/students
+  - Bank of Ireland student account:
+    https://www.bankofireland.com/personal/current-accounts/student-account/
+  - Permanent TSB student:
+    https://www.permanenttsb.ie/current-accounts/explore-current-accounts/student/
+  - Revolut: https://www.revolut.com/en-IE/  | N26: https://n26.com/en-ie
+  - Education in Ireland (banking overview):
+    https://www.educationinireland.com/en/living-in-ireland/banking-in-ireland
+
+TRANSPORT
+  - Student Leap Card: https://student.leapcard.ie/ (or leapcard.ie)
+  - Transport for Ireland: https://www.transportforireland.ie
+  - Dublin Bus dublinbus.ie | Luas luas.ie | Irish Rail irishrail.ie |
+    Bus Eireann buseireann.ie | Dublin Bikes dublinbikes.ie
+  - Free Now free-now.com/ie | Uber uber.com/ie/en
+  - Driving licence (foreign): https://www.citizensinformation.ie/en/travel-and-recreation/motoring/driver-licensing/
+
+HEALTH
+  - Health Insurance Authority (compare plans): https://www.hia.ie
+  - Laya https://www.laya.ie/health-insurance/students | VHI
+    https://www.vhi.ie/health-insurance/student-health-insurance |
+    Irish Life Health https://www.irishlifehealth.ie
+  - HSE: https://www.hse.ie | Find a GP:
+    https://www.hse.ie/eng/services/list/2/gp/find-a-gp.html
+  - EHIC (EU students): https://www.hse.ie/eng/services/list/1/schemes/EHIC/
+  - ICOS / International students (health insurance):
+    https://www.internationalstudents.ie/info-and-advice/immigration/health-insurance
+  - TCD health insurance:
+    https://www.tcd.ie/study/international/arriving-in-ireland/health-insurance/
+  - Irish College of General Practitioners (find a GP): icgp.ie
+
+JOBS
+  - IrishJobs.ie | JobsIreland.ie | ie.indeed.com | ie.linkedin.com
+  - Workplace Relations Commission: https://www.workplacerelations.ie
+  - Minimum wage rates: https://www.gov.ie/en/publication/9ad0e-the-national-minimum-wage/
+
+SUPPORT & MENTAL HEALTH
+  - Samaritans samaritans.ie (116 123) | Aware aware.ie (1800 80 48 48)
+  - SpunOut spunout.ie | Text About It text50808.ie |
+    HSE Your Mind Matters https://www2.hse.ie/mental-health/
+  - NASC nasc.ie | FLAC flac.ie | Immigrant Council immigrantcouncil.ie
+
+STUDENT LIFE & DISCOUNTS
+  - USI usi.ie | ISIC isic.ie | Student Universal Card
+    studentuniversalcard.ie
+  - Discover Ireland ireland.ie | Visit Dublin visitdublin.com
+
+HOUSING
+  - Residential Tenancies Board (students):
+    https://rtb.ie/students/
+  - Threshold (free tenancy advice):
+    https://threshold.ie/faq/student-rental-rights/
+  - Dublin.ie (finding accommodation):
+    https://dublin.ie/study/student-life/finding-student-accommodation/
+
+TAX
+  - Revenue (myAccount / PAYE): https://www.revenue.ie/
+  - Citizens Information (tax and starting work):
+    https://www.citizensinformation.ie/en/employment/starting-work-and-changing-job/starting-work/tax-and-starting-work/
+
+SIM / MOBILE
+  - GoMo: https://gomo.ie/  | 48: 48.ie | Three: three.ie
+  - Comparison: https://goosed.ie/
+
+EMERGENCY
+  - Emergency services: 112 or 999
+
+LAST VERIFIED: 8 June 2026
+==============================================================

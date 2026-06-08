@@ -1,0 +1,108 @@
+==============================================================
+TASK GUIDE: Student Visa Application (before arrival)
+==============================================================
+
+TASK:          Apply for your Irish student visa (D-type / Stamp 2)
+CATEGORY:      legal
+PRIORITY:      PRE-ARRIVAL — apply well before your course start
+WHO NEEDS IT:  Non-EU/EEA students from VISA-REQUIRED countries must
+               apply BEFORE travelling. EU/EEA/Swiss: no visa, no IRP.
+               Non-EU from NON-VISA-REQUIRED countries (e.g. USA,
+               Canada, Australia, Brazil): no entry visa, but you MUST
+               still register for IRP within 90 days (see
+               irp-registration.txt).
+WHY:           Legal permission to enter Ireland to study. Without it,
+               visa-required nationals cannot board/enter.
+
+DO YOU NEED A VISA?
+  - Check your nationality:
+    https://www.irishimmigration.ie/coming-to-study-in-ireland/
+  - Student immigration FAQ:
+    https://www.irishimmigration.ie/registering-your-immigration-permission/frequently-asked-questions-for-registration/
+
+VISA TYPES:
+  - C-type (Short Stay): courses UNDER 3 months. Single entry.
+  - D-type (Long Stay Study): courses OVER 3 months — MOST STUDENTS
+    NEED THIS. Fees: EUR 60 single entry / EUR 100 multiple entry.
+    After arriving on a D visa, you register for Stamp 2 (IRP).
+
+ELIGIBILITY (must meet ALL):
+  1. COURSE: full-time, minimum 15 hours/week daytime classes, AND
+     listed on the ILEP (Interim List of Eligible Programmes).
+     Check ILEP first:
+     https://www.irishimmigration.ie/coming-to-study-in-ireland/what-are-my-study-options/ilep-current-list/
+     ILEP covers higher education (degrees/diplomas/masters), some
+     English-language programmes, further education & training, and
+     professional/vocational programmes.
+  2. FINANCES (updated June 2025): prove IMMEDIATE ACCESS to:
+       - EUR 10,000 for living costs PER YEAR of study (separate
+         from tuition), OR
+       - For 6-8 month courses: EUR 833/month (EUR 4,998 for 6 mo /
+         EUR 6,665 for 8 mo)
+       - PLUS proof of tuition fee payment (at least first semester)
+     Accepted evidence: 6 months' bank statements; funds clearly
+     accessible and under your control; no large unexplained
+     deposits; credit cards NOT accepted; loan sanction letter /
+     scholarship letter / sponsor docs + proof of relationship if
+     applicable.
+     Official update:
+     https://www.irishimmigration.ie/reminder-on-student-finance-requirements-from-30-june-2025/
+  3. ENGLISH LANGUAGE: valid certificate issued within 2 years of
+     course start (one sitting; cannot combine dates):
+       IELTS Academic: UG 6.0 (no band <5.5) / PG 6.5 / English 5.0
+       TOEFL iBT:      UG 80 / PG 90-100 (check institution) / Eng 61
+       PTE Academic:   UG 55 / PG 59 / English 30
+       Duolingo:       accepted by many (not all) - check yours
+  4. HEALTH INSURANCE: private cover valid in Ireland BEFORE applying;
+     min EUR 25,000 accident AND EUR 25,000 illness/hospitalisation,
+     for full duration of stay. See health-gp.txt.
+  5. OTHER: passport valid 12+ months from arrival; good character
+     (no serious criminal record); genuine student intent; intent to
+     leave after studies; DISCLOSE any prior visa refusal (anywhere);
+     explain any education gaps in writing.
+
+HOW TO APPLY (AVATS):
+  Portal: https://www.visas.inis.gov.ie
+  1. Create an AVATS account.
+  2. Complete the online form (match your passport exactly; choose
+     "D Study Visa" if course > 3 months).
+  3. Pay the fee online (EUR 60 single / EUR 100 multiple).
+  4. Print and sign the summary form + declaration page.
+  5. Gather required documents (see document-checklists.txt -> VISA).
+  6. Submit physical documents to your nearest Irish Embassy/
+     Consulate. Find it: https://www.ireland.ie/en/dfa/embassies/
+  7. Wait for a decision: normally 4-8 weeks; peak season (Jun-Sep)
+     up to 10-12 weeks. APPLY WELL IN ADVANCE.
+  8. Travel to Ireland; keep your visa approval docs; register for
+     IRP within 90 days.
+
+COMMON REASONS FOR REFUSAL (avoid):
+  - Funds below EUR 10,000 living costs
+  - Tuition not paid before applying
+  - Institution not on ILEP
+  - Weak/vague cover letter or Statement of Purpose
+  - No clear ties to home country
+  - Unexplained education gaps
+  - Prior visa refusals not disclosed
+  - Medical insurance not valid in Ireland
+  - Inconsistent information across documents
+
+FEES:          C-type or D-type single EUR 60 / multiple EUR 100
+TIMEFRAME:     4-8 weeks (up to 10-12 in peak season)
+
+OFFICIAL LINK:
+  - AVATS: https://www.visas.inis.gov.ie
+  - Main portal: https://www.irishimmigration.ie
+  - Citizens Information (student visas):
+    https://www.citizensinformation.ie/en/moving-country/moving-to-ireland/coming-to-live-in-ireland/student-visas/
+  - Immigrant Council of Ireland (free advice):
+    https://www.immigrantcouncil.ie/rights/international-students
+
+TIPS:
+  - Confirm your course is on the ILEP BEFORE paying anything.
+  - Pay tuition (at least first semester) before applying — required.
+  - Write a strong, specific Statement of Purpose.
+  - Apply early; peak-season processing is slow.
+
+LAST VERIFIED: 8 June 2026 (source: user pre-arrival/visa guides)
+==============================================================

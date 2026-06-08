@@ -1,0 +1,63 @@
+==============================================================
+TASK GUIDE: Student Leap Card (public transport)
+==============================================================
+
+TASK:          Get a TFI Student Leap Card
+CATEGORY:      transport
+PRIORITY:      Week 1–2
+WHO NEEDS IT:  Full-time students who use public transport (bus,
+               Luas, DART, train) in Ireland.
+WHY:           Pays HALF-PRICE fares across the TFI network and is
+               the cheapest way to travel. Also doubles as a student
+               travel ID.
+
+ELIGIBILITY:
+  - Full-time education, 15+ hours per week
+  - Course at least 6 months / 25 weeks long
+
+STEPS:
+  1. Apply online at leapcard.ie (student section /
+     student.leapcard.ie).
+  2. Upload supporting evidence: a letter from your college/
+     institution confirming the course is full-time (15+ hrs) and
+     over 6 months / 25 weeks. International students upload their
+     university acceptance letter. Must be in English or Irish.
+  3. Wait for the confirmation email saying your card is ready.
+  4. Collect the card from a Student Leap Card agent — bring your
+     student ID and valid proof of age.
+  5. Top up with travel credit (online, app, shops, or machines).
+
+DOCUMENTS:
+  - University acceptance / enrolment letter (English or Irish)
+  - Student ID (for collection)
+  - Valid proof of age ID (for collection)
+
+FEES:          €5 refundable deposit + minimum €5 travel credit
+TIMEFRAME:     Apply online, wait for "ready" email, then collect.
+               [VERIFY current processing time]
+
+OTHER TRANSPORT (Dublin & nationwide):
+  - Transport for Ireland (journey planner): https://www.transportforireland.ie
+  - Dublin Bus: https://www.dublinbus.ie
+  - Luas (Dublin tram, Red & Green lines): https://luas.ie
+  - Irish Rail (DART & national trains): https://www.irishrail.ie
+  - Bus Eireann (national bus network): https://www.buseireann.ie
+  - Dublin Bikes (~€35/year cycle share): https://www.dublinbikes.ie
+  - Taxi apps: Free Now https://www.free-now.com/ie/ | Uber https://www.uber.com/ie/en/
+  - Driving a foreign licence? See driving-licence.txt.
+
+OFFICIAL LINK:
+  - https://student.leapcard.ie/  (or https://www.leapcard.ie)
+  - https://www.transportforireland.ie/fares/leap-card/
+  - TCD students: https://www.tcdsu.org/services/student-leap-card
+
+TIPS:
+  - Many Students' Unions (incl. TCD SU) are Leap Card agents — you
+    can often apply and collect through them.
+  - Set up auto top-up in the TFI Leap app so you never get caught
+    short.
+  - Tap on (and tap off on Luas/DART/rail) to be charged the correct
+    fare.
+
+LAST VERIFIED: 8 June 2026
+==============================================================

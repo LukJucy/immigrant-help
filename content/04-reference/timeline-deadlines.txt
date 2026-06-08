@@ -1,0 +1,71 @@
+==============================================================
+REFERENCE: Timeline & Deadlines (engine input)
+==============================================================
+
+PURPOSE
+-------
+Drives the personalised timeline view. Each task has a timing rule
+relative to the user's arrival_date or course_start. The site sorts
+tasks by computed due date and flags hard deadlines.
+
+ANCHORS
+  arrival_date  — when the student lands in Ireland
+  course_start  — first day of term
+
+PHASES
+  PRE_ARRIVAL   — do before flying
+  WEEK_1        — first days after landing
+  FIRST_MONTH   — settle-in tasks
+  FIRST_90_DAYS — legal must-dos
+  WHEN_WORKING  — only if taking a job
+
+----------------------------------------------------------------
+TASK            PHASE          TIMING RULE                  HARD?
+----------------------------------------------------------------
+Student visa    PRE_ARRIVAL    apply 4-12 wks before        YES*
+(visa-required   (AVATS)        course start; needs ILEP
+ nationals)                     course + EUR 10k funds +
+                               insurance + English cert
+Accommodation   PRE_ARRIVAL    apply months before          no
+                               (blocks PPSN + bank)
+Health insurance PRE_ARRIVAL   before IRP appointment        yes*
+SIM card        WEEK_1         day 1 (needed for portals)    no
+Digital bank    PRE_ARRIVAL    optional, open before flying  no
+                / WEEK_1
+Book IRP appt   WEEK_1         book ASAP after arrival       no**
+                               (waits 8-10 wks observed)
+PPSN letter req WEEK_1         request from college early    no
+PPSN apply      FIRST_MONTH    after long-term address       no
+                               secured
+Traditional bank WEEK_1-2      during orientation week       no
+Student Leap     WEEK_1-2      after enrolment letter        no
+GP registration  FIRST_MONTH   soon after arrival            no
+IRP registration FIRST_90_DAYS arrival_date + 90 days        YES (legal)
+Register job/tax WHEN_WORKING  before first payday           yes*
+                               (avoid emergency tax)
+IRP renewal     EACH_YEAR      from 12 wks before expiry,    YES
+                               online, EUR 300 (don't let
+                               card expire before travel)
+Stamp 1G apply  AFTER_GRAD     before Stamp 2 expires        YES
+                               (12-24 months to seek work)
+
+  *  conditional/category hard deadline (visa needed before travel
+     for visa-required nationals; insurance required for IRP; tax
+     registration required before pay to avoid emergency tax)
+  ** not itself a deadline, but the 8-10 week appointment wait means
+     booking late risks missing the 90-day IRP deadline -> treat as
+     urgent.
+
+KEY COMPUTED DATES
+  irp_deadline   = arrival_date + 90 days        (show countdown)
+  book_irp_by    = irp_deadline - 70 days        (allow for wait)
+  tax_register_by= first_work_day - 7 days
+
+DISPLAY NOTES
+  - Show the IRP 90-day countdown prominently on the dashboard.
+  - Order the timeline by computed due date, grouped by phase.
+  - Surface "blocked by" relationships: PPSN and bank both depend on
+    a long-term address (accommodation).
+
+LAST VERIFIED: 8 June 2026
+==============================================================

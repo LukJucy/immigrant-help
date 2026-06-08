@@ -1,0 +1,75 @@
+==============================================================
+TASK GUIDE: Health Insurance & Registering with a GP
+==============================================================
+
+TASK:          Sort health insurance + register with a doctor (GP)
+CATEGORY:      health
+PRIORITY:      Health insurance = PRE-ARRIVAL (needed for IRP/Stamp 2).
+               GP registration = first few weeks.
+WHO NEEDS IT:  All non-EEA students need private medical insurance for
+               Stamp 2. Everyone should register with a GP.
+WHY:           Insurance is a legal condition of your student
+               permission and is checked at IRP registration/renewal.
+               A GP is your first point of contact for healthcare.
+
+HEALTH INSURANCE:
+  - Non-EU students MUST have private health insurance for Stamp 2.
+  - Cost: roughly €150–500 / year.
+  - Must meet the minimum cover required for residency renewal:
+    €25,000 for accident AND €25,000 for disease, including any
+    hospitalisation. [VERIFY current minimum]
+  - FIRST YEAR: travel/home-country insurance MAY suffice if it
+    covers you for a full year (or your stay is under a year) and
+    meets the €25,000 minimums.
+  - AFTER first year: must buy insurance from an Ireland-based
+    provider.
+  - Compare plans (official tool): https://www.hia.ie
+  - Major student insurers: Laya
+    (https://www.laya.ie/health-insurance/students), VHI
+    (https://www.vhi.ie/health-insurance/student-health-insurance),
+    Irish Life Health (https://www.irishlifehealth.ie).
+  - TIP: many colleges offer a GROUP student insurance plan that is
+    cheaper than buying privately — check your college/SU first.
+  - EU students: get your EHIC card before leaving home —
+    https://www.hse.ie/eng/services/list/1/schemes/EHIC/
+
+REGISTERING WITH A GP:
+  STEPS:
+    1. Ask your university health centre for nearby GP
+       recommendations (most campuses have an on-site health centre).
+    2. Or find a GP near you:
+       - HSE find-a-GP: https://www.hse.ie/eng/services/list/2/gp/find-a-gp.html
+       - Irish College of General Practitioners (ICGP): icgp.ie
+       - GP visit card (free GP visits if low income): apply via
+         mywelfare.ie
+    3. Call/visit the practice to check they are accepting new
+       patients.
+    4. Complete their registration form and provide insurance details.
+    5. Provide ID and proof of Irish address.
+
+DOCUMENTS:
+  - Photo ID (passport)
+  - Proof of Irish address
+  - Health insurance details
+  - (For IRP) a valid insurance certificate meeting the minimums
+
+FEES:          - Insurance: ~€150–500/year
+               - GP visit: campus health centre ~€15–30; external GP
+                 ~€50–70 per visit
+TIMEFRAME:     Insurance: arrange before arrival. GP registration:
+               same day–week once you pick a practice.
+
+OFFICIAL LINK:
+  - https://www.internationalstudents.ie/info-and-advice/immigration/health-insurance
+  - https://www.tcd.ie/study/international/arriving-in-ireland/health-insurance/
+  [VERIFY insurance minimums on irishimmigration.ie before launch]
+
+TIPS:
+  - Use the campus health centre — consultations are far cheaper
+    than external GPs and often free for some services.
+  - Keep your insurance certificate handy: you need it for IRP
+    registration and renewal.
+  - In an emergency, dial 112 or 999. A&E is for emergencies only.
+
+LAST VERIFIED: 8 June 2026
+==============================================================

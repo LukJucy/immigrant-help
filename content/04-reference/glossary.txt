@@ -1,0 +1,108 @@
+==============================================================
+REFERENCE: Glossary of Terms
+==============================================================
+
+PURPOSE
+-------
+Plain-English definitions of the acronyms and terms a new student
+hits. The site shows these as tooltips/hover-cards on first use.
+
+PPSN — Personal Public Service Number. Your unique ID for tax, social
+  welfare, and public services. Needed to work and to be taxed
+  correctly.
+
+IRP — Irish Residence Permit. The physical card proving your legal
+  permission to live in Ireland. Non-EEA students must register for it.
+
+GNIB — Garda National Immigration Bureau. The old name people still
+  use for immigration registration; now handled by ISD.
+
+ISD — Immigration Service Delivery. The body that runs immigration
+  registration and the appointment portal.
+
+Stamp 2 — The immigration permission for full-time non-EEA students.
+  Allows limited part-time work (term and holiday limits apply).
+
+Stamp 1G — Permission that can apply to graduates staying to seek
+  work after study.
+
+Burgh Quay — The ISD Registration Office in Dublin city centre where
+  first-time IRP registration appointments happen.
+
+MyGovID — The Irish government's verified login. A basic account is
+  the first step to using MyWelfare.
+
+MyWelfare — The Department of Social Protection's online portal; where
+  you apply for a PPSN.
+
+myAccount — Revenue's online portal for PAYE/tax (register jobs,
+  claim refunds, manage tax credits).
+
+IBAN — International Bank Account Number. An Irish IBAN (issued by a
+  licensed bank) is often required by employers and landlords.
+
+PAYE — Pay As You Earn. The system where income tax is deducted from
+  wages automatically.
+
+USC — Universal Social Charge. A tax on income above a threshold;
+  students under the threshold are exempt.
+
+PRSI — Pay Related Social Insurance. Social insurance contributions
+  deducted from pay.
+
+Emergency tax — The high default tax rate applied when Revenue has no
+  record of your job; avoided by registering the job in myAccount.
+
+RPN — Revenue Payroll Notification. The instruction Revenue sends your
+  employer with your tax credits; stops emergency tax.
+
+Leap Card — The reusable smart card for public transport (bus, Luas,
+  DART, rail). The Student Leap Card gives half-price fares.
+
+TFI — Transport for Ireland. The national transport brand behind Leap.
+
+Luas — Dublin's tram system. DART — the coastal rail line.
+
+RTB — Residential Tenancies Board. Regulates tenancies and handles
+  rental disputes.
+
+SSA — Student Specific Accommodation. Purpose-built student housing,
+  with its own tenancy rules.
+
+Threshold — A charity giving free, independent advice to renters.
+
+GP — General Practitioner (family doctor). Your first point of contact
+  for non-emergency healthcare.
+
+HSE — Health Service Executive. Ireland's public health service.
+
+Stamp / permission renewal — Re-registering your IRP before it
+  expires; insurance and other conditions are re-checked.
+
+ILEP — Interim List of Eligible Programmes. The official list of
+  courses that qualify for a student visa/Stamp 2. Your course MUST
+  be on it.
+
+AVATS — Irish Visa Application portal (visas.inis.gov.ie) where
+  visa-required nationals apply for their student visa before travel.
+
+D-type visa — Long-stay study visa for courses over 3 months (the
+  main student visa). C-type — short-stay visa for courses under 3
+  months.
+
+Stamp 1G — Graduate permission allowing you to stay 12-24 months to
+  seek work after finishing your degree.
+
+EHIC — European Health Insurance Card. EU students get this in their
+  home country for public healthcare access.
+
+NDLS — National Driver Licence Service; where you exchange/apply for
+  an Irish driving licence.
+
+ISIC — International Student Identity Card; worldwide student
+  discounts.
+
+USI — Union of Students in Ireland; the national students' union.
+
+LAST VERIFIED: 8 June 2026
+==============================================================

@@ -1,0 +1,78 @@
+==============================================================
+TASK GUIDE: Tax & Revenue (myAccount) — for working students
+==============================================================
+
+TASK:          Register your job with Revenue to avoid emergency tax
+CATEGORY:      money / legal
+PRIORITY:      Before your first day of paid work (needs PPSN first)
+WHO NEEDS IT:  Any student who takes a part-time/holiday job. Stamp 2
+               students can usually work limited hours.
+WHY:           If Revenue has no record of your job, you are put on
+               EMERGENCY TAX and lose a large chunk of your pay until
+               it's fixed. Registering correctly prevents this.
+
+STEPS:
+  1. Get your PPSN first (see ppsn.txt) — you cannot register
+     properly without it.
+  2. Give your PPSN to your employer.
+  3. Create a Revenue myAccount at revenue.ie.
+  4. In myAccount: go to 'PAYE Services' -> 'Jobs and Pensions' ->
+     'Add Job' and enter your employer's details. Do this BEFORE you
+     start, or as soon as possible after.
+  5. Revenue issues your employer a Revenue Payroll Notification
+     (RPN) with your tax credits — this stops emergency tax.
+  6. If you were already emergency-taxed, the overpayment is refunded
+     automatically through payroll once the RPN is in place.
+
+HOW EMERGENCY TAX HURTS:
+  - With PPSN given: first 4 weeks taxed at 20% up to the standard
+    band (40% above), NO tax credits; after week 4, all income at
+    40%.
+  - With NO PPSN given: ALL income taxed at 40% from day one.
+  - USC and PRSI also apply at emergency rates.
+
+GOOD NEWS FOR STUDENTS:
+  - Most part-time students earning under ~€13,000/year pay little or
+    no income tax, and are exempt from USC below that threshold; tax
+    credits offset most of the rest. [VERIFY thresholds for current
+    tax year]
+  - National minimum wage (2025): €13.50/hour. [VERIFY current rate]
+
+STAMP 2 WORK LIMITS (don't exceed):
+  - Term time: MAX 20 hours/week
+  - Holidays: MAX 40 hours/week (June, July, August, September, and
+    15 December - 15 January)
+  - Exceeding these violates your visa conditions.
+
+CLAIMING A TAX REFUND (if over-taxed):
+  - https://www.revenue.ie/en/jobs-and-pensions/tax-refunds/index.aspx
+
+JOB SEARCH:
+  - IrishJobs.ie | JobsIreland.ie (government) | ie.indeed.com |
+    ie.linkedin.com
+  - Know your rights: Workplace Relations Commission,
+    https://www.workplacerelations.ie
+
+DOCUMENTS / PREREQUISITES:
+  - PPSN
+  - Employer's registration details (they provide)
+  - myAccount login (myGovID / myAccount)
+
+FEES:          Free
+TIMEFRAME:     Register before starting work; RPN issues quickly once
+               the job is added.
+
+OFFICIAL LINK:
+  - https://www.citizensinformation.ie/en/employment/starting-work-and-changing-job/starting-work/tax-and-starting-work/
+  - revenue.ie -> myAccount -> PAYE Services
+  [VERIFY rates/bands for the current tax year]
+
+TIPS:
+  - Register the job BEFORE your first payday — fixing emergency tax
+    afterwards takes weeks.
+  - Know your Stamp 2 work-hour limits (typically 20 hrs/week in
+    term, 40 in holidays) — don't exceed them. [VERIFY]
+  - Keep payslips; check you're getting your tax credits.
+
+LAST VERIFIED: 8 June 2026
+==============================================================

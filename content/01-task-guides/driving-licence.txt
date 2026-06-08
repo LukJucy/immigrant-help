@@ -1,0 +1,44 @@
+==============================================================
+TASK GUIDE: Driving Licence (using a foreign licence)
+==============================================================
+
+TASK:          Use or convert your foreign driving licence
+CATEGORY:      transport / legal
+PRIORITY:      Only if you intend to drive; check before 12 months
+WHO NEEDS IT:  Students who plan to drive in Ireland.
+WHY:           Foreign licences are only valid for a limited time;
+               non-EU licences may need conversion (or you must sit
+               an Irish test) to keep driving legally.
+
+KEY RULES:
+  - EU/EEA licences: generally valid to drive in Ireland and can be
+    exchanged for an Irish licence.
+  - Non-EU/EEA licences: may be used for a limited period (commonly
+    up to 12 months). After that you may need to convert (if Ireland
+    has an exchange agreement with your country) OR pass the Irish
+    driver theory + practical test.
+  - Whether you can EXCHANGE depends on your country having an
+    agreement with Ireland — check the official link for your
+    specific country.
+
+STEPS:
+  1. Check if your country has a licence-exchange agreement with
+     Ireland (Citizens Information link below).
+  2. If yes: apply to exchange via the NDLS (National Driver Licence
+     Service). You'll typically need ID, proof of address, PPSN, and
+     your current licence.
+  3. If no: you must sit the Driver Theory Test, get a learner
+     permit, and pass the driving test to drive long-term.
+
+OFFICIAL LINK:
+  - Citizens Information - using a foreign licence in Ireland:
+    https://www.citizensinformation.ie/en/travel-and-recreation/motoring/driver-licensing/
+
+TIPS:
+  - Don't let your foreign licence "run out" of validity here —
+    check the 12-month rule for your country early.
+  - In Dublin, public transport + Leap card usually beats driving;
+    you may not need this at all.
+
+LAST VERIFIED: 8 June 2026 (source: user after-arrival guide)
+==============================================================

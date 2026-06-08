@@ -1,0 +1,104 @@
+==============================================================
+PREFILL: Letter & Email Templates
+==============================================================
+
+PURPOSE
+-------
+Draft letters/emails the site auto-fills from the user's profile.
+{{placeholders}} are replaced with profile fields. Users review,
+then send to their university office or use as supporting docs.
+
+----------------------------------------------------------------
+TEMPLATE 1: Request to university for PPSN letter
+(email FROM student TO international/student office)
+----------------------------------------------------------------
+Subject: Request for PPSN confirmation letter — {{full_name}}, {{student_id}}
+
+Dear {{university}} International/Student Office,
+
+I am a registered {{course_name}} student (student ID {{student_id}})
+and I am applying for a PPSN (Personal Public Service Number) for the
+purpose of my studies.
+
+Could you please provide a letter, addressed to the tax office,
+confirming that I am a full-time student and that I require a PPSN for
+my studies? I understand this letter is accepted by the Department of
+Social Protection as evidence for the PPSN application.
+
+My details:
+  Full name: {{full_name}}
+  Date of birth: {{date_of_birth}}
+  Nationality: {{nationality}}
+  Irish address: {{irish_address}}
+  Course: {{course_name}}
+  Course start: {{course_start}}
+
+Thank you very much for your help.
+
+Kind regards,
+{{full_name}}
+{{phone_irish}} | {{email}}
+
+----------------------------------------------------------------
+TEMPLATE 2: PPSN "reason for application" letter
+(the supporting letter, as the office would issue it — for reference)
+----------------------------------------------------------------
+[University letterhead]
+Date: {{today}}
+
+To the PPSN Registration Office / Department of Social Protection,
+
+This is to confirm that {{full_name}} (date of birth {{date_of_birth}},
+nationality {{nationality}}) is a registered full-time student at
+{{university}}, enrolled on the {{course_name}} programme commencing
+{{course_start}}.
+
+{{full_name}} requires a Personal Public Service Number for the
+purpose of their studies and associated services in Ireland. Their
+current address in Ireland is {{irish_address}}.
+
+Please provide any assistance required.
+
+Yours faithfully,
+[Name, Office, {{university}}]
+
+----------------------------------------------------------------
+TEMPLATE 3: Enquiry to a GP practice (new patient)
+----------------------------------------------------------------
+Subject: New patient registration enquiry
+
+Hello,
+
+I am an international student at {{university}}, recently arrived in
+Ireland and living at {{irish_address}}. I would like to register as
+a new patient. Could you let me know if you are currently accepting
+new patients, what documents you require, and your consultation fees?
+
+I have private health insurance and can provide ID and proof of
+address.
+
+Thank you,
+{{full_name}}
+{{phone_irish}}
+
+----------------------------------------------------------------
+TEMPLATE 4: Accommodation viewing enquiry (with scam-safe note)
+----------------------------------------------------------------
+Subject: Viewing enquiry — {{listing_reference}}
+
+Hi,
+
+I'm an international student at {{university}} starting {{course_start}}
+and interested in your listing ({{listing_reference}}). Is it still
+available, and could I arrange a viewing (in person or video call)
+before proceeding?
+
+Thank you,
+{{full_name}}
+{{phone_irish}}
+
+[Site safety note shown to user, NOT sent: never pay a deposit before
+verifying the property and landlord are genuine.]
+
+LAST VERIFIED: 8 June 2026
+==============================================================

@@ -1,0 +1,64 @@
+==============================================================
+TASK GUIDE: SIM Card / Mobile Plan
+==============================================================
+
+TASK:          Get an Irish mobile number / SIM
+CATEGORY:      comms
+PRIORITY:      Day 1 (do this first — you need a number for everything
+               else: bank, IRP portal, appointments)
+WHO NEEDS IT:  Everyone. An Irish number is needed for verification on
+               most portals and services.
+WHY:           Cheap data + an Irish number for 2FA, appointments,
+               banking, and calls.
+
+OPTIONS (prepaid / SIM-only — best value for students):
+  - 48 (runs on Three's network): ~€12.99/mo, ~200GB data, all calls
+    + texts, 5G included. Often cited as the cheapest 5G SIM-only
+    plan. Free SIM order online. Value-focused, popular with students.
+  - GoMo: ~€14.99/mo, unlimited domestic data (16GB roaming in
+    EU/UK), unlimited domestic + EU/UK calls and texts. Simple flat
+    pricing.
+  - Three: most affordable big network; PAYG SIMs from ~€10, plans
+    ~€15–25/mo. Strong value + coverage.
+  - Vodafone / Clear Mobile: ~€14.99/mo unlimited (speed-capped on
+    some plans). Widest coverage.
+  - Eir: competitive mid-tier pricing, coverage focused on populated
+    areas. | https://www.eir.ie
+  - Tesco Mobile: https://www.tescomobile.ie
+  Provider sites: 48 https://www.48.ie | Three https://www.three.ie |
+  Vodafone https://n.vodafone.ie
+  eSIM vs physical: most providers offer eSIM (instant) or a posted/
+  in-store physical SIM.
+
+STEPS:
+  1. Compare plans on price, data, and roaming (esp. if you'll travel
+     in the EU).
+  2. Order online (eSIM or free posted SIM) or buy in a shop /
+     supermarket / airport.
+  3. Activate and (for value brands like 48) choose a membership/
+     plan to start using it.
+  4. Top up / set the monthly plan.
+
+DOCUMENTS:
+  - Usually just your passport. Most PREPAID SIMs do NOT require a
+    PPSN or IRP. (Bill-pay/contract plans may need more — and usually
+    aren't worth it for short stays.)
+
+FEES:          ~€10–15 / month for a good prepaid plan
+TIMEFRAME:     eSIM: minutes. Physical SIM: same day (shop) or a few
+               days (posted).
+
+OFFICIAL LINK:
+  - https://gomo.ie/
+  - Compare deals: https://goosed.ie/ (independent Irish comparison)
+  [VERIFY current prices — mobile deals change often]
+
+TIPS:
+  - Get a prepaid/PAYG SIM, NOT a contract — no credit check, no
+    lock-in, easy to switch.
+  - Do this at the airport or day one so you have a number for every
+    other task (bank, IRP portal need a phone number).
+  - Check EU roaming caps if you plan to travel during breaks.
+
+LAST VERIFIED: 8 June 2026
+==============================================================

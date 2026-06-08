@@ -1,0 +1,154 @@
+==============================================================
+FORUM SEED: Example experience posts
+==============================================================
+
+PURPOSE
+-------
+~12 realistic seed posts so the community/forum isn't empty at launch
+(solves the cold-start problem). These are ILLUSTRATIVE examples
+written to reflect common real experiences — mark them clearly as
+seed/example content, or replace with real opt-in student posts
+before launch. Format mirrors the site's post schema.
+
+FIELDS: id | task_tag | title | author(alias) | nationality | upvotes | body
+
+----------------------------------------------------------------
+id: 001
+task_tag: irp
+title: Got my Dublin IRP slot — check the portal at 8am
+author: maptolife
+nationality: India
+upvotes: 142
+body: The ISD portal releases appointment slots on a rolling basis.
+I checked every morning around 8am and grabbed one about 7 weeks out.
+Don't wait — book the moment you land. Have the €300 and your
+insurance cert ready before the appointment.
+
+----------------------------------------------------------------
+id: 002
+task_tag: ppsn
+title: Sort your accommodation BEFORE trying for a PPSN
+author: dublin_grad
+nationality: Nigeria
+upvotes: 98
+body: I wasted two weeks because my hostel address didn't count —
+they need a long-term address. Once I had my student residence
+contract and the college letter, the MyWelfare application + in-person
+appointment was smooth. Number came by post about a week later.
+
+----------------------------------------------------------------
+id: 003
+task_tag: bank
+title: Revolut on day one, AIB for the Irish IBAN later
+author: ll_m
+nationality: China
+upvotes: 76
+body: Opened Revolut from home before flying so I could spend
+immediately. Added an AIB Student Plus account in orientation week for
+a proper Irish IBAN (my landlord wanted one). Best of both.
+
+----------------------------------------------------------------
+id: 004
+task_tag: leap
+title: Apply for the Student Leap Card through your SU
+author: trinity_fresher
+nationality: Brazil
+upvotes: 54
+body: TCD SU is a Leap agent, so I applied and collected on campus.
+Bring your acceptance letter for the online step and your student ID
+to collect. Half-price fares add up fast.
+
+----------------------------------------------------------------
+id: 005
+task_tag: sim
+title: 48 plan = best value for students
+author: budgetmover
+nationality: Pakistan
+upvotes: 61
+body: €12.99/month, loads of data, 5G, all calls/texts. Ordered the
+SIM free online. Get a number on day one — you need it for the IRP
+portal and your bank.
+
+----------------------------------------------------------------
+id: 006
+task_tag: tax
+title: Register your job in myAccount BEFORE your first shift
+author: parttime_paye
+nationality: Malaysia
+upvotes: 47
+body: I forgot and got hit with emergency tax — lost a big chunk of my
+first two payslips. Add the job under PAYE Services > Jobs and
+Pensions in Revenue myAccount as soon as you have your PPSN. The
+refund came through payroll once it was fixed, but it took weeks.
+
+----------------------------------------------------------------
+id: 007
+task_tag: accommodation
+title: Never pay a deposit before viewing — scam warning
+author: safe_renting
+nationality: Vietnam
+upvotes: 130
+body: A "landlord" asked me to transfer a deposit before viewing,
+saying he was abroad. Classic scam. Always view in person or by video
+first, and use Threshold for free advice. Lost nothing thankfully.
+
+----------------------------------------------------------------
+id: 008
+task_tag: health
+title: Use the campus health centre — way cheaper
+author: wellstudent
+nationality: Egypt
+upvotes: 39
+body: Campus GP visits were ~€20 vs €60 at an external clinic. Keep
+your insurance certificate safe — you need it for IRP. Sorted my
+insurance before arrival so Stamp 2 was no problem.
+
+----------------------------------------------------------------
+id: 009
+task_tag: irp
+title: Stamp 2 work hours — know the limit
+author: working_student
+nationality: Philippines
+upvotes: 44
+body: On Stamp 2 you can work limited hours in term and more during
+holidays. Check the current official limit and don't go over it — it
+can affect your permission. [Readers: verify current hours on
+irishimmigration.ie]
+
+----------------------------------------------------------------
+id: 010
+task_tag: general
+title: My first-week order of operations
+author: onboarded
+nationality: Kenya
+upvotes: 88
+body: What worked for me: 1) SIM at the airport, 2) confirm
+accommodation, 3) open digital bank, 4) book IRP appointment same day,
+5) request college PPSN letter, 6) Leap card, 7) GP. Doing the IRP
+booking first matters because of the wait.
+
+----------------------------------------------------------------
+id: 011
+task_tag: bank
+title: Bring proof of address or you'll get turned away
+author: paperwork_pro
+nationality: Mexico
+upvotes: 33
+body: The bank wouldn't open my account without proof of Irish
+address. A college Letter of Introduction saved me when I didn't have
+a utility bill yet. Ask your international office for one.
+
+----------------------------------------------------------------
+id: 012
+task_tag: ppsn
+title: MyGovID first, then MyWelfare
+author: stepbystep
+nationality: Indonesia
+upvotes: 29
+body: Set up a basic MyGovID account first, then everything in
+MyWelfare unlocks. The online application books your in-person
+appointment and lists exactly what to bring.
+
+LAST VERIFIED (structure): 8 June 2026
+NOTE: bodies are example/seed content, not real user data.
+==============================================================

@@ -1,0 +1,72 @@
+==============================================================
+TASK GUIDE: Open a Student Bank Account
+==============================================================
+
+TASK:          Open an Irish bank account
+CATEGORY:      money
+PRIORITY:      Week 1–2 (can START pre-arrival with some banks)
+WHO NEEDS IT:  Any student who wants an Irish IBAN for rent, wages,
+               bills, and day-to-day spending.
+WHY:           Many landlords and employers need an Irish IBAN. Only
+               licensed banks issue Irish IBANs; some employers won't
+               accept non-Irish IBANs.
+
+OPTIONS:
+  TRADITIONAL (licensed, Irish IBAN; usually need PPSN + Irish
+  address — apply after arrival):
+    - AIB Student Account — zero fees | https://aib.ie/students
+    - Bank of Ireland (BOI) student account — no maintenance/
+      transaction fees, contactless card, branches on many campuses
+      | https://www.bankofireland.com/personal/current-accounts/student-account/
+    - Permanent TSB student account |
+      https://www.permanenttsb.ie/current-accounts/explore-current-accounts/student/
+    - AIB & BOI let you START the application online before arrival
+      (BOI "Coming to Ireland", up to ~45 days before arrival)
+  DIGITAL (fast, no PPSN needed, check IBAN/employer acceptance):
+    - Revolut — licensed/regulated (Bank of Lithuania), provides an
+      Irish IBAN, currency exchange, physical + virtual cards,
+      Apple Pay. Opens in minutes. | https://www.revolut.com/en-IE/
+    - N26 — can open remotely with home-country details, no PPSN
+      required. | https://n26.com/en-ie
+    NOTE: confirm a digital account's IBAN is accepted by your
+    employer/landlord before relying on it as your main account.
+
+STEPS:
+  1. Choose traditional (full service, campus branches) and/or
+     digital (instant, good as a backup).
+  2. For BOI/AIB: start the application online; some steps can be
+     done pre-arrival.
+  3. Gather documents (below).
+  4. Complete the application — in branch (often during orientation
+     week) or in-app for digital banks.
+  5. Receive your IBAN and debit card.
+
+DOCUMENTS:
+  - Passport
+  - IRP or visa
+  - University acceptance/enrolment letter
+  - Proof of Irish address (tenancy agreement or utility bill)
+  - Some banks may also ask for PPSN or a college Letter of
+    Introduction
+
+FEES:          AIB Student Plus & BOI student accounts: no fees
+TIMEFRAME:     - Traditional: 1–3 business days (often immediate
+                 during orientation periods)
+               - Digital (Revolut): working account in minutes,
+                 full validation 1–2 days
+
+OFFICIAL LINK:
+  - https://aib.ie/our-products/current-accounts/student-plus-account
+  - https://www.educationinireland.com/en/living-in-ireland/banking-in-ireland
+
+TIPS:
+  - Proof of Irish address is the usual sticky point — a college
+    "Letter of Introduction" can help if you don't have a utility
+    bill yet.
+  - Open a digital account (Revolut/N26) BEFORE arrival so you can
+    spend day one, then add a traditional account for the Irish IBAN.
+  - Orientation week is the easiest time — banks set up stalls on
+    campus.
+
+LAST VERIFIED: 8 June 2026
+==============================================================

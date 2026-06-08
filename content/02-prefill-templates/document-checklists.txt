@@ -1,0 +1,95 @@
+==============================================================
+PREFILL: Per-Task Document Checklists
+==============================================================
+
+PURPOSE
+-------
+The "what to bring/upload" list for each task, personalised per user.
+The site renders these as tick-boxes on each task page and before each
+appointment.
+
+----------------------------------------------------------------
+STUDENT VISA APPLICATION (AVATS, before arrival)
+----------------------------------------------------------------
+  [ ] Valid passport (12+ months validity from arrival date)
+  [ ] Two recent passport-sized colour photos
+  [ ] Signed AVATS application summary form + declaration page
+  [ ] Letter of acceptance (full-time, ILEP course, start/end dates)
+  [ ] Proof of tuition fee payment (first semester minimum)
+  [ ] Bank statements - last 6 months (show access to EUR 10,000)
+  [ ] Private health insurance certificate (EUR 25,000+ cover)
+  [ ] English language test certificate (< 2 years old)
+  [ ] Academic transcripts & certificates
+  [ ] Statement of Purpose / cover letter
+  [ ] Proof of accommodation in Ireland
+  If applicable:
+  [ ] Loan/scholarship letter, or sponsor's bank statements +
+      proof of relationship + letter of undertaking
+  [ ] Written explanation of any education gaps
+  [ ] Details of any previous visa refusals (any country)
+  [ ] Police clearance certificate (some embassies)
+
+----------------------------------------------------------------
+PPSN APPOINTMENT
+----------------------------------------------------------------
+  [ ] Passport
+  [ ] College PPSN letter (states PPSN needed for study; addressed
+      to tax office)
+  [ ] Proof of long-term Irish address
+  [ ] MyGovID / MyWelfare account set up
+  [ ] Appointment confirmation (from MyWelfare)
+  NOTE: temporary/short-term address is NOT accepted.
+
+----------------------------------------------------------------
+IRP REGISTRATION APPOINTMENT (Burgh Quay, Dublin)
+----------------------------------------------------------------
+  [ ] Passport (+ biometric page) and entry visa if applicable
+  [ ] University admission/enrolment letter
+  [ ] Proof of Irish address
+  [ ] Proof of financial means (if required)
+  [ ] Private medical insurance certificate (meets minimum cover)
+  [ ] €300 registration fee (payment ready)
+  [ ] ISD portal appointment confirmation
+
+----------------------------------------------------------------
+BANK ACCOUNT OPENING
+----------------------------------------------------------------
+  [ ] Passport
+  [ ] IRP or visa
+  [ ] University acceptance/enrolment letter
+  [ ] Proof of Irish address (tenancy agreement or utility bill)
+  [ ] PPSN (some banks) / college Letter of Introduction (some banks)
+
+----------------------------------------------------------------
+STUDENT LEAP CARD (online + collection)
+----------------------------------------------------------------
+  Online application:
+  [ ] University acceptance letter (English or Irish), confirming
+      full-time 15+ hrs, 25+ weeks
+  At collection:
+  [ ] Student ID
+  [ ] Valid proof of age ID
+  [ ] €5 deposit + €5 minimum credit
+
+----------------------------------------------------------------
+GP REGISTRATION
+----------------------------------------------------------------
+  [ ] Passport / photo ID
+  [ ] Proof of Irish address
+  [ ] Health insurance details
+  [ ] Practice registration form (from the GP)
+
+----------------------------------------------------------------
+TAX / REVENUE (register a job)
+----------------------------------------------------------------
+  [ ] PPSN
+  [ ] Employer registration details
+  [ ] Revenue myAccount login
+
+----------------------------------------------------------------
+SIM CARD
+----------------------------------------------------------------
+  [ ] Passport (most prepaid SIMs need nothing more)
+
+LAST VERIFIED: 8 June 2026
+==============================================================

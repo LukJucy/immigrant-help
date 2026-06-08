@@ -1,0 +1,59 @@
+==============================================================
+TASK GUIDE: PPSN (Personal Public Service Number)
+==============================================================
+
+TASK:          Get your PPSN
+CATEGORY:      legal / money
+PRIORITY:      First 90 days (do AFTER you have long-term accommodation)
+WHO NEEDS IT:  All students who will work, pay tax, open some bank
+               accounts, or access public/health services. Required
+               before starting any paid job to avoid emergency tax.
+WHY:           A unique ID number that links you to tax, social, and
+               public services in Ireland. Without it you are taxed at
+               the emergency rate and cannot be set up properly by an
+               employer.
+
+STEPS:
+  1. Travel to Ireland first — you must be RESIDENT here to apply.
+     You cannot get a PPSN from abroad.
+  2. Secure long-term accommodation (student residence or private
+     rented). Short-term/temporary accommodation is NOT accepted.
+  3. Create a basic MyGovID account at mygovid.ie.
+  4. Get a letter from your university/college stating you need a
+     PPSN for your studies, addressed to the tax office. (See
+     02-prefill-templates/letter-templates.txt.)
+  5. Log in to MyWelfare.ie and apply for a PPSN online.
+  6. Book the required IN-PERSON appointment as part of the online
+     application. You will be told which documents to bring.
+  7. Attend the appointment with your documents.
+  8. Your PPSN is POSTED to your address afterwards (not given on
+     the day).
+
+DOCUMENTS:
+  - Passport (photo ID)
+  - Evidence of why you need a PPSN: the college PPSN letter
+    (confirms it is needed for study)
+  - Proof of address (long-term; the college letter is often
+    accepted for this too)
+  - MyGovID / MyWelfare account set up
+
+FEES:          Free
+TIMEFRAME:     Appointment booked within application; number arrives
+               by post days–weeks later. [VERIFY current wait]
+
+OFFICIAL LINK:
+  - https://www.gov.ie/en/department-of-social-protection/services/get-a-personal-public-service-pps-number/
+  - https://services.mywelfare.ie/en/topics/identity-services/personal-public-service-pps-number/
+  - https://www.citizensinformation.ie/en/social-welfare/irish-social-welfare-system/personal-public-service-number/
+
+TIPS:
+  - Sort accommodation FIRST — this is the most common blocker.
+  - Ask your university's international/student office for the PPSN
+    letter; many produce them as standard for new students.
+  - You do NOT necessarily need a PPSN to use your university's own
+    student health service.
+  - Apply early — you need the PPSN before your first payslip to
+    avoid emergency tax (see tax-revenue.txt).
+
+LAST VERIFIED: 8 June 2026
+==============================================================

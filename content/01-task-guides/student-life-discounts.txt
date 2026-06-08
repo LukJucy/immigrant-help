@@ -1,0 +1,36 @@
+==============================================================
+TASK GUIDE: Student Life & Discounts
+==============================================================
+
+TASK:          Get student discount cards & plug into student life
+CATEGORY:      lifestyle
+PRIORITY:      First month (nice-to-have, money-saving)
+WHO NEEDS IT:  Any student wanting discounts and community.
+WHY:           Student cards save money on travel, shopping, and
+               attractions; student bodies offer support and events.
+
+DISCOUNT CARDS:
+  - ISIC (International Student Identity Card) - worldwide student
+    discounts: https://www.isic.ie
+  - Student Universal Card (discounts in Ireland):
+    https://www.studentuniversalcard.ie
+  - Your Student Leap Card also acts as student ID for many discounts
+    (see student-leap-card.txt).
+
+STUDENT BODIES:
+  - Union of Students in Ireland (USI): https://usi.ie
+  - Your college's own Students' Union (SU) - events, support, and
+    often a Student Leap Card agent.
+
+THINGS TO SEE & DO:
+  - Discover Ireland: https://www.ireland.ie
+  - Visit Dublin (official city guide): https://www.visitdublin.com
+
+TIPS:
+  - Attend Freshers' Week - join societies, meet people, grab
+    freebies and discount sign-ups.
+  - Always ask "is there a student discount?" - many cafes, cinemas,
+    and shops offer one with a student ID.
+
+LAST VERIFIED: 8 June 2026 (source: user pre-arrival guide)
+==============================================================

@@ -1,0 +1,104 @@
+==============================================================
+TASK GUIDE: IRP (Irish Residence Permit) Registration
+==============================================================
+
+TASK:          Register your immigration permission (get your IRP card)
+CATEGORY:      legal
+PRIORITY:      First 90 days — HARD DEADLINE. Highest priority for
+               non-EEA students.
+WHO NEEDS IT:  All non-EEA/non-Swiss students staying longer than 90
+               days. (EU/EEA/Swiss students do NOT need to register.)
+WHY:           The IRP card is your legal proof of permission to live
+               in Ireland (typically Stamp 2 for students). You must
+               register to remain legally resident.
+
+STEPS:
+  1. Arrive in Ireland.
+  2. Create a personal account on the ISD Customer Portal
+     (Immigration Service Delivery).
+  3. Book a first-time registration appointment online at
+     inisonline.jahs.ie. Since Jan 2025, ALL first-time
+     registrations are handled by ISD (no longer the Garda/GNIB).
+     Slots open on a rolling basis up to ~10 weeks ahead.
+  4. Upload/prepare your supporting documents (see below).
+  5. Attend your appointment at the ISD Registration Office,
+     13-14 Burgh Quay, Dublin 2, D02 XK70. (Outside Dublin:
+     contact your local ISD office.)
+  6. Pay the €300 registration fee.
+  7. Your IRP card is printed centrally and POSTED to your address
+     in ~10–15 working days (you do not get it on the day).
+
+DOCUMENTS:
+  - Passport (incl. biometric page) and entry visa where applicable
+  - Evidence of the basis for permission: university admission/
+    enrolment letter
+  - Proof of address in Ireland
+  - Proof of financial means (where required)
+  - Private medical insurance (required for Stamp 2 — see
+    health-gp.txt)
+
+FEES:          €300 registration fee (unless in an exempt category)
+TIMEFRAME:     - DEADLINE: register within 90 days of arrival
+               - Appointment wait: officially 2–3 weeks, but real
+                 Dublin waits were ~8–10 weeks in late 2025 [VERIFY]
+               - Card posted ~10–15 working days after appointment
+               - If you CANNOT get an appointment within 90 days, do
+                 not panic: ISD will not cancel your permission while
+                 you are waiting — but book as early as possible.
+
+BOOKING PORTAL: https://inisonline.jahs.ie  (first-time registration)
+
+OFFICIAL LINK:
+  - https://www.irishimmigration.ie/registering-your-immigration-permission/information-on-registering/irish-residence-permit/
+  - https://www.citizensinformation.ie/en/moving-country/moving-to-ireland/rights-of-residence-in-ireland/registration-of-non-eea-nationals-in-ireland/
+
+TIPS:
+  - Book the appointment AS SOON AS you arrive — slots go fast and
+    waits can eat most of your 90-day window.
+  - Check the portal early in the morning; slots are released on a
+    rolling basis.
+  - Have the €300 ready and your insurance certificate sorted before
+    the appointment.
+  - Stamp 2 = student permission. Work limits: MAX 20 hrs/week
+    during term; MAX 40 hrs/week during holidays (holiday periods:
+    June, July, August, September, and 15 December - 15 January).
+    Exceeding these limits violates your visa conditions.
+
+STAMP 2 - WHAT IT ALLOWS:
+  - Remain in Ireland for your course duration
+  - Work up to 20 hrs/week (term) / 40 hrs/week (holidays)
+  - Must be renewed each year (see RENEWAL below)
+  - Permission stamps explained:
+    https://www.irishimmigration.ie/registering-your-immigration-permission/information-on-registering/immigration-permission-stamps/
+
+RENEWING YOUR IRP (each year):
+  - Renew BEFORE your current card expires.
+  - You can apply from 12 WEEKS before expiry — NOT earlier (earlier
+    applications are refused).
+  - Stamp 2 students: wait until your NEW course year starts before
+    applying to renew.
+  - All renewals are done ONLINE (not in person). Fee: €300/year.
+  - You must be physically present in Ireland to renew.
+  - Check live ISD processing times before applying:
+    https://www.irishimmigration.ie/registering-your-immigration-permission/how-to-renew-your-current-permission/
+
+TRAVELLING OUTSIDE IRELAND (re-entry):
+  - To re-enter you need BOTH your valid passport AND your valid
+    PHYSICAL IRP card. A photo/soft copy is NOT accepted.
+  - Do NOT travel if your IRP card has expired - you may be refused
+    re-entry.
+  - If your renewal is pending, check the ISD site for any temporary
+    travel arrangements before you travel.
+
+AFTER GRADUATION - STAMP 1G (Graduate Programme):
+  - Lets you stay to seek work without a job offer first.
+  - Duration: 12 months (ordinary degree) / 24 months (postgrad,
+    Level 9+).
+  - Must apply before your Stamp 2 expires; must have graduated from
+    an ILEP-listed programme; cannot work more than 40 hrs/week.
+  - Dependents: only postgrad (Level 9+) students may bring a spouse/
+    children, with extra financial means and separate applications.
+  - Info: https://www.irishimmigration.ie/my-situation-has-changed-since-i-arrived-in-ireland/graduate-programme/
+
+LAST VERIFIED: 8 June 2026 (updated from user visa guide)
+==============================================================
