@@ -1,8 +1,8 @@
 /**
  * Content & domain types for SettleIn.
  * These mirror docs/technical/data-model.md. The build script
- * (scripts/build-content.ts) parses content/**/*.txt into these shapes,
- * validates them with Zod, and emits public/content.json.
+ * (scripts/build-content.ts) parses the content/ txt library into these
+ * shapes, validates them with Zod, and emits public/content.json.
  */
 
 // ----- Enums -----

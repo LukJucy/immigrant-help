@@ -1035,7 +1035,6 @@
       "taskId": "visa-application",
       "title": "STUDENT VISA APPLICATION (AVATS, before arrival)",
       "items": [
-        "----------------------------------------------------------------",
         "Valid passport (12+ months validity from arrival date)",
         "Two recent passport-sized colour photos",
         "Signed AVATS application summary form + declaration page",
@@ -1046,23 +1045,23 @@
         "English language test certificate (< 2 years old)",
         "Academic transcripts & certificates",
         "Statement of Purpose / cover letter",
-        "Proof of accommodation in Ireland If applicable:",
+        "Proof of accommodation in Ireland",
+        "If applicable:",
         "Loan/scholarship letter, or sponsor's bank statements + proof of relationship + letter of undertaking",
         "Written explanation of any education gaps",
         "Details of any previous visa refusals (any country)",
-        "Police clearance certificate (some embassies) ----------------------------------------------------------------"
+        "Police clearance certificate (some embassies)"
       ]
     },
     {
       "taskId": "ppsn",
       "title": "PPSN APPOINTMENT",
       "items": [
-        "----------------------------------------------------------------",
         "Passport",
         "College PPSN letter (states PPSN needed for study; addressed to tax office)",
         "Proof of long-term Irish address",
         "MyGovID / MyWelfare account set up",
-        "Appointment confirmation (from MyWelfare) NOTE: temporary/short-term address is NOT accepted. ----------------------------------------------------------------"
+        "Appointment confirmation (from MyWelfare)"
       ],
       "note": "temporary/short-term address is NOT accepted."
     },
@@ -1070,65 +1069,61 @@
       "taskId": "irp-registration",
       "title": "IRP REGISTRATION APPOINTMENT (Burgh Quay, Dublin)",
       "items": [
-        "----------------------------------------------------------------",
         "Passport (+ biometric page) and entry visa if applicable",
         "University admission/enrolment letter",
         "Proof of Irish address",
         "Proof of financial means (if required)",
         "Private medical insurance certificate (meets minimum cover)",
         "€300 registration fee (payment ready)",
-        "ISD portal appointment confirmation ----------------------------------------------------------------"
+        "ISD portal appointment confirmation"
       ]
     },
     {
       "taskId": "student-bank-account",
       "title": "BANK ACCOUNT OPENING",
       "items": [
-        "----------------------------------------------------------------",
         "Passport",
         "IRP or visa",
         "University acceptance/enrolment letter",
         "Proof of Irish address (tenancy agreement or utility bill)",
-        "PPSN (some banks) / college Letter of Introduction (some banks) ----------------------------------------------------------------"
+        "PPSN (some banks) / college Letter of Introduction (some banks)"
       ]
     },
     {
       "taskId": "student-leap-card",
       "title": "STUDENT LEAP CARD (online + collection)",
       "items": [
-        "---------------------------------------------------------------- Online application:",
-        "University acceptance letter (English or Irish), confirming full-time 15+ hrs, 25+ weeks At collection:",
+        "Online application:",
+        "University acceptance letter (English or Irish), confirming full-time 15+ hrs, 25+ weeks",
+        "At collection:",
         "Student ID",
         "Valid proof of age ID",
-        "€5 deposit + €5 minimum credit ----------------------------------------------------------------"
+        "€5 deposit + €5 minimum credit"
       ]
     },
     {
       "taskId": "health-gp",
       "title": "GP REGISTRATION",
       "items": [
-        "----------------------------------------------------------------",
         "Passport / photo ID",
         "Proof of Irish address",
         "Health insurance details",
-        "Practice registration form (from the GP) ----------------------------------------------------------------"
+        "Practice registration form (from the GP)"
       ]
     },
     {
       "taskId": "tax-revenue",
       "title": "TAX / REVENUE (register a job)",
       "items": [
-        "----------------------------------------------------------------",
         "PPSN",
         "Employer registration details",
-        "Revenue myAccount login ----------------------------------------------------------------"
+        "Revenue myAccount login"
       ]
     },
     {
       "taskId": "sim-card",
       "title": "SIM CARD",
       "items": [
-        "----------------------------------------------------------------",
         "Passport (most prepaid SIMs need nothing more) LAST VERIFIED: 8 June 2026"
       ]
     }
