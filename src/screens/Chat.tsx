@@ -55,7 +55,7 @@ export function Chat() {
     <div className="flex min-h-[70vh] flex-col">
       <header className="mb-3">
         <div className="flex items-center justify-between">
-          <h1 className="text-[28px] font-bold text-ink">Ask SettleIn</h1>
+          <h1 className="text-[28px] font-bold text-ink">Ask Ireland Buddy</h1>
           <span className="rounded-full bg-primary-soft px-2.5 py-0.5 text-xs font-medium text-primary">
             {assistant.label}
           </span>

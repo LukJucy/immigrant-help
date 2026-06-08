@@ -1,4 +1,4 @@
-/**
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    /**
  * About / Trust — the required disclaimer (signposting, not legal advice),
  * how content is kept current, and privacy + full profile deletion (GDPR).
  */
@@ -34,7 +34,7 @@ export function About() {
       <section className="rounded-card border border-info/30 bg-blue-50 p-4">
         <SectionTitle>Signposting, not legal advice</SectionTitle>
         <p className="text-ink">
-          SettleIn helps you find and prepare for official processes. It is{" "}
+          Ireland Buddy helps you find and prepare for official processes. It is{" "}
           <strong>not legal or immigration advice</strong>. Rules, fees and wait times change —
           always confirm the details on the official <em>gov.ie</em> and{" "}
           <em>irishimmigration.ie</em> pages we link to before you act.

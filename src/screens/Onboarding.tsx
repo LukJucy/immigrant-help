@@ -98,6 +98,19 @@ export function Onboarding() {
         </span>
       </div>
 
+      {/* Welcome logo (first step only) */}
+      {step === 0 && (
+        <div className="mb-6 flex justify-center">
+          <img
+            src="/logo.png"
+            alt="Ireland Buddy"
+            className="h-32 w-auto"
+            width={256}
+            height={256}
+          />
+        </div>
+      )}
+
       {/* Question */}
       <div className="flex-1">
         <h1 className="mb-1 text-[28px] font-bold leading-tight text-ink">{current.question}</h1>

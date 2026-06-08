@@ -20,7 +20,7 @@ function Footer() {
   return (
     <footer className="border-t border-border px-4 py-4 text-center text-sm text-muted">
       <p>
-        SettleIn is <strong className="font-semibold">signposting, not legal advice</strong>. Always
+        Ireland Buddy is <strong className="font-semibold">signposting, not legal advice</strong>. Always
         check the official source.{" "}
         <Link to="/about" className="font-medium text-primary underline underline-offset-2">
           About &amp; trust
