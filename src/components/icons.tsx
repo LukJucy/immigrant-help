@@ -59,3 +59,6 @@ export const IconShield = (p: SVGProps<SVGSVGElement>) => (
 export const IconAlert = (p: SVGProps<SVGSVGElement>) => (
   <svg {...base(p)}><path d="M10.29 3.86 1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z" /><path d="M12 9v4M12 17h.01" /></svg>
 );
+export const IconAsk = (p: SVGProps<SVGSVGElement>) => (
+  <svg {...base(p)}><path d="M7.5 4.2 8.5 7l2.8 1-2.8 1-1 2.8-1-2.8L3.7 8l2.8-1z" /><path d="M16 11.5 17 14l2.3.8L17 15.6l-1 2.5-1-2.5-2.3-.8L15 14z" /></svg>
+);

@@ -1,12 +1,12 @@
 /** Persistent bottom tab bar: Timeline · Forum · Search · Help. */
 import { NavLink } from "react-router-dom";
-import { IconForum, IconHelp, IconSearch, IconTimeline } from "./icons";
+import { IconAsk, IconForum, IconHelp, IconTimeline } from "./icons";
 import type { ComponentType, SVGProps } from "react";
 
 const TABS: { to: string; label: string; Icon: ComponentType<SVGProps<SVGSVGElement>> }[] = [
   { to: "/timeline", label: "Timeline", Icon: IconTimeline },
   { to: "/forum", label: "Forum", Icon: IconForum },
-  { to: "/search", label: "Search", Icon: IconSearch },
+  { to: "/chat", label: "Ask", Icon: IconAsk },
   { to: "/help", label: "Help", Icon: IconHelp },
 ];
 

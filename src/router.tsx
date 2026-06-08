@@ -6,6 +6,7 @@ import { Timeline } from "./screens/Timeline";
 import { TaskGuideScreen } from "./screens/TaskGuide";
 import { Prefill } from "./screens/Prefill";
 import { Forum } from "./screens/Forum";
+import { Chat } from "./screens/Chat";
 import { Search } from "./screens/Search";
 import { Help } from "./screens/Help";
 import { About } from "./screens/About";
@@ -26,6 +27,7 @@ export const router = createBrowserRouter([
       { path: "/task/:id", element: <TaskGuideScreen /> },
       { path: "/prefill/:id", element: <Prefill /> },
       { path: "/forum", element: <Forum /> },
+      { path: "/chat", element: <Chat /> },
       { path: "/search", element: <Search /> },
       { path: "/help", element: <Help /> },
       { path: "/about", element: <About /> },
